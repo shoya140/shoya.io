@@ -8,8 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "date-fns": "^2.16.1",
+    "gray-matter": "^4.0.2",
+    "highlight.js": "^10.4.1",
+    "markdown-it": "^12.0.4",
+    "markdown-it-custom-block": "^0.1.2",
     "next": "10.0.3",
+    "nextjs-progressbar": "^0.0.7",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "sass": "^1.30.0"
   }
 }

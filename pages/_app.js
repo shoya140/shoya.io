@@ -1,7 +1,19 @@
-import '../styles/globals.css'
+import NextNprogress from 'nextjs-progressbar'
+import { pageview } from '../lib/gatag'
+import Router from 'next/router'
+
+import '../styles/highlight.css'
+import '../styles/globals.scss'
+
+Router.events.on('routeChangeComplete', url => pageview(url))
 
 function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+  return (
+    <>
+    <NextNprogress color="#2561a2" startPosition={0} stopDelayMs={0} height="1" options={{ showSpinner: false }}/>
+      <Component {...pageProps} />
+    </>
+  )
 }
 
 export default MyApp

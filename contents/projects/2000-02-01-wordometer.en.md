@@ -1,0 +1,14 @@
+---
+title: Wordometer
+description: "We propose a system tracking the number of read words by analyzing eye movements measured by JINS MEME (commercial electrooculography glasses). As people are encouraged to be physically fit by monitoring step counts, counting the number of words they read and giving feedback is a potential approach to helping them increase their daily reading volume."
+eyecatch: /img/project_wordometer.jpg
+project: research
+---
+
+@[youtube](I-f_XuCpgAg)
+
+We propose a system tracking the number of read words by analyzing eye movements measured by JINS MEME (commercial electrooculography glasses). As people are encouraged to be physically fit by monitoring step counts, counting the number of words they read and giving feedback is a potential approach to helping them increase their daily reading volume.
+
+## Related Publications
+
+<ol><li><p><span class="anchor-position" id="ishimaru2017towards"></span><u>Shoya Ishimaru</u>, Kensuke Hoshika, Kai Kunze, Koichi Kise and Andreas Dengel. <b>“<a href="#ishimaru2017towards" class="anchor-title">Towards Reading Trackers in the Wild: Detecting Reading Activities by EOG Glasses and Deep Neural Networks</a>”</b>. In Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct Publication (UbiComp '17 Adjunct), pp.&nbsp;704–711, 2017. <a href="/bibtex/ishimaru2017towards.bib" target="_blank">BibTeX</a> <a href="/preprint/ishimaru2017towards.pdf" target="_blank">PDF</a></p></li><li><p><span class="anchor-position" id="ishimaru2016wordometer"></span><u>Shoya Ishimaru</u>, Kai Kunze, Koichi Kise and Andreas Dengel. <b>“<a href="#ishimaru2016wordometer" class="anchor-title">The Wordometer 2.0: Estimating the Number of Words You Read in Real Life using Commercial EOG Glasses</a>”</b>. In Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct Publication (UbiComp '16 Adjunct), pp.&nbsp;293–296, 2016. <a href="/bibtex/ishimaru2016wordometer.bib" target="_blank">BibTeX</a> <a href="/preprint/ishimaru2016wordometer.pdf" target="_blank">PDF</a></p></li><li><p><span class="anchor-position" id="kunze2015quantifying"></span>Kai Kunze, Katsutoshi Masai, Masahiko Inami, Ömer Sacakli, Marcus Liwicki, Andreas Dengel, <u>Shoya Ishimaru</u> and Koichi Kise. <b>“<a href="#kunze2015quantifying" class="anchor-title">Quantifying Reading Habits: Counting How Many Words You Read</a>”</b>. In Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp '15), pp.&nbsp;87–96, 2015. <a href="/bibtex/kunze2015quantifying.bib" target="_blank">BibTeX</a> <a href="/preprint/kunze2015quantifying.pdf" target="_blank">PDF</a></p></li></ol>
