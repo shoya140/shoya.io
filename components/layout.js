@@ -4,15 +4,14 @@ import { useRouter } from 'next/router'
 import Date from '../components/date'
 
 const pages = [
-  {name: '/projects/', displayEn: 'Projects', displayJa: 'プロジェクト'},
-  {name: '/publications/', displayEn: 'Publications', displayJa: '論文'},
-  {name: '/software/', displayEn: 'Software', displayJa: 'ソフトウェア'},
-  {name: '/posts/', displayEn: 'Blog', displayJa: 'ブログ'}
+  {name: '/projects', display: 'Projects'},
+  {name: '/publications', display: 'Publications'},
+  {name: '/software', display: 'Software'},
+  {name: '/posts', display: 'Blog'}
 ]
 
 export default function Layout({
-  children,
-  title='shoya.io', date, isTranslated,
+  children, title, date, isTranslated,
   description, keywords, eyecatch='https://shoya.io/img/icon_portrait.jpg'
 }) {
   const router = useRouter()
@@ -36,7 +35,7 @@ export default function Layout({
         {description && <meta property="og:description" content={description} />}
         {description && <meta property="og:image" content={eyecatch} />}
         {description && <meta property="og:type" content="article" />}
-        <title>{title}</title>
+        <title>{`${title} - shoya.io`}</title>
         <link rel="canonical" href={url} />
         <link rel="icon" href="/favicon.ico" />
         <link rel="search" type="application/opensearchdescription+xml" title="shoya.io" href='https://shoya.io/opensearch.xml' />
@@ -45,14 +44,14 @@ export default function Layout({
       <header className="site-header">
         <div className="wrapper">
           <div className="logo-container">
-            <Link href="/home/" as="/">
+            <Link href="/home" as="/">
               <a className={'nav-link ' + ((router.asPath === '/') || (router.asPath === '') ? 'nav-active' : '')}>shoya.io</a>
             </Link>
           </div>
           <nav className="nav-container">
-            {pages.map(({name, displayEn, displayJa}) => (
+            {pages.map(({name, display}) => (
               <Link href={name} key={name}>
-                <a className={'nav-link ' + (RegExp(name).test(router.asPath) ? 'nav-active' : '')}>{locale === 'en' ? displayEn : displayJa}</a>
+                <a className={'nav-link ' + (RegExp(name).test(router.asPath) ? 'nav-active' : '')}>{display}</a>
               </Link>
             ))}
             <div id="language-switch" className={isTranslated === 'true' ? '' : 'disabled'}>
@@ -60,7 +59,7 @@ export default function Layout({
                 <input type="checkbox" className="checkbox" checked={(locale === 'ja')} onChange={()=>{}} onClick={() => {
                   const nextLocale = (locale === 'en') ? 'ja' : 'en'
                   if (router.asPath === "/") {
-                    router.push("/home/", "/", {locale: nextLocale})
+                    router.push("/home", "/", {locale: nextLocale})
                   } else {
                     router.push(router.asPath, router.asPath, {locale: nextLocale})
                   }
@@ -89,15 +88,15 @@ export default function Layout({
       <div className="site-footer">
         <div className="wrapper">
           <p>© 2020
-            <Link href='/home/' as='/'>
+            <Link href='/home' as='/'>
               <a> Shoya Ishimaru</a>
             </Link>
             {' '} | {' '}
-            <Link href='/privacy/'>
+            <Link href='/privacy'>
               <a>Privacy Policy</a>
             </Link>
             {/* {' '} | {' '}
-            <Link href='/feed.xml'>
+            <Link href='/feed'>
               <a>RSS</a>
             </Link> */}
           </p>

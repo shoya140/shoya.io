@@ -123,7 +123,7 @@ description: "Dr. Shoya Ishimaru is a Senior Researcher at the German Research C
 
 |||
 |:---:|:---|
-|E-mail|{firstname}.{lastname}@gmail.com|
+|E-mail|*firstname*.*lastname*@gmail.com|
 |GitHub|[@shoya140](https://github.com/shoya140/)|
 |Twitter|[@shoya140](https://twitter.com/shoya140)|
 

@@ -123,7 +123,7 @@ description: "石丸翔也は工学博士・ドイツ人工知能研究センタ
 
 |||
 |:---:|:---|
-|E-mail|{firstname}.{lastname}@gmail.com|
+|E-mail|*firstname*.*lastname*@gmail.com|
 |GitHub|[@shoya140](https://github.com/shoya140/)|
 |Twitter|[@shoya140](https://twitter.com/shoya140)|
 

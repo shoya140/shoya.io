@@ -24,22 +24,22 @@ export default function Posts({ allPostsData, anotherLocalePostsData }) {
   return (
     <Layout title={(locale === 'en') ? 'Blog Posts' : 'ブログ'} isTranslated={'true'}>
       <p className="categories">
-        <span className={"category-container " + (router.asPath === '/posts/' ? 'category-active' : '')}>
-          <Link href='/posts/'>
+        <span className={"category-container " + (router.asPath === '/posts' ? 'category-active' : '')}>
+          <Link href='/posts'>
             <a>{locale === 'en' ? allEn : allJa} ({allPostsData.length})</a>
           </Link>
         </span>
         {allCategories.map(({name, displayEn, displayJa}) => (
           <span key={name} className={"category-container " + (router.asPath === ('/posts/?category=' + name) ? 'category-active' : '')}>
             <img src={`/img/twemoji/${name}.svg`} width="16px" className="category-img" />
-            <Link href={`/posts/?category=${name}`}>
+            <Link href={`/posts?category=${name}`}>
               <a>{locale === 'en' ? displayEn : displayJa} ({allPostsData.filter(({category}) => category===name).length})</a>
             </Link>
           </span>
         ))}
       </p>
       <div>
-        {allPostsData.filter(({category}) => (router.asPath === '/posts/' || RegExp(category).test(router.asPath))).map(({ id, date, title, category }) => (
+        {allPostsData.filter(({category}) => (router.asPath === '/posts' || RegExp(category).test(router.asPath))).map(({ id, date, title, category }) => (
           <div className="list-container" key={id}>
             <Link href={`/posts/${id}`}>
               <a></a>

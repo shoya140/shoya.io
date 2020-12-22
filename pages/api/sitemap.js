@@ -5,17 +5,17 @@ export default async function(req, res) {
   let xml = ''
 
   xml += staticURL('/')
-  xml += staticURL('/ja/')
-  xml += staticURL('/projects/')
-  xml += staticURL('/ja/projects/')
-  xml += staticURL('/publications/')
-  xml += staticURL('/ja/publications/')
-  xml += staticURL('/software/')
-  xml += staticURL('/ja/software/')
-  xml += staticURL('/posts/')
-  xml += staticURL('/ja/posts/')
-  xml += staticURL('/privacy/')
-  xml += staticURL('/ja/privacy/')
+  xml += staticURL('/ja')
+  xml += staticURL('/projects')
+  xml += staticURL('/ja/projects')
+  xml += staticURL('/publications')
+  xml += staticURL('/ja/publications')
+  xml += staticURL('/software')
+  xml += staticURL('/ja/software')
+  xml += staticURL('/posts')
+  xml += staticURL('/ja/posts')
+  xml += staticURL('/privacy')
+  xml += staticURL('/ja/privacy')
 
   xml += await dynamicURL('projects', 'en')
   xml += await dynamicURL('projects', 'ja')
@@ -39,7 +39,7 @@ async function dynamicURL(subDirectory, locale) {
   const posts = await getSortedContentsData(subDirectory, locale)
   for (const post of posts) {
     const postDate = new Date(post.date).toISOString().split('T')[0]
-    const projectURL = `https://shoya.io${localePath}/${subDirectory}/${post.id}/`
+    const projectURL = `https://shoya.io${localePath}/${subDirectory}/${post.id}`
     xml += `<url>
         <loc>${projectURL}</loc>
         <lastmod>${postDate}</lastmod>
