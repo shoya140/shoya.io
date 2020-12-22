@@ -13,7 +13,6 @@ export default function Post({ postData }) {
   return (
     <Layout
       title={postData.title}
-      date={postData.date}
       isTranslated={postData.isTranslated}
       description={postData.description}
       keywords={postData.keywords}
