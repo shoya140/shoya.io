@@ -7,7 +7,10 @@ export default function Posts({ allPostsData }) {
   const { locale } = useRouter()
 
   return (
-    <Layout title={(locale === 'en') ? 'Projects' : 'プロジェクト'} isTranslated={'true'}>
+    <Layout
+      title={locale === 'en' ? 'Projects' : 'プロジェクト'}
+      isTranslated={'true'}
+    >
       <div>
         {allPostsData.map(({ id, date, title, eyecatch, description }) => (
           <div className="card" key={id}>
@@ -32,7 +35,7 @@ export async function getStaticProps({ locale }) {
   const allPostsData = getSortedContentsData('projects', locale)
   return {
     props: {
-      allPostsData
-    }
+      allPostsData,
+    },
   }
 }

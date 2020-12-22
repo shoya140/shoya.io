@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "fmt": "prettier --write 'components/**/*.js' 'lib/**/*.js' 'pages/**/*.js' 'styles/**/*.scss' '*.{js, json}'"
   },
   "dependencies": {
     "date-fns": "^2.16.1",
@@ -18,5 +19,8 @@
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "sass": "^1.30.0"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
   }
 }

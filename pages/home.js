@@ -3,7 +3,7 @@ import Layout from '../components/layout'
 import { getContentData } from '../lib/contents'
 
 export default function Content({ postData }) {
-  const {locale} = useRouter()
+  const { locale } = useRouter()
   return (
     <Layout
       title={postData.title}
@@ -24,7 +24,7 @@ export async function getStaticProps({ params, locale }) {
   const postData = await getContentData('', 'index', locale)
   return {
     props: {
-      postData
-    }
+      postData,
+    },
   }
 }

@@ -1,7 +1,6 @@
 import { getSortedContentsData } from '../../lib/contents'
 
-export default async function(req, res) {
-
+export default async function (req, res) {
   let xml = ''
 
   xml += staticURL('/')
@@ -33,7 +32,7 @@ export default async function(req, res) {
 }
 
 async function dynamicURL(subDirectory, locale) {
-  const localePath = (locale === 'en') ? '' : `/${locale}`
+  const localePath = locale === 'en' ? '' : `/${locale}`
 
   let xml = ''
   const posts = await getSortedContentsData(subDirectory, locale)

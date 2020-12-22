@@ -24,7 +24,7 @@ export async function getStaticPaths() {
   const paths = getAllContentIds('')
   return {
     paths,
-    fallback: false
+    fallback: false,
   }
 }
 
@@ -32,7 +32,7 @@ export async function getStaticProps({ params, locale }) {
   const postData = await getContentData('', params.id, locale)
   return {
     props: {
-      postData
-    }
+      postData,
+    },
   }
 }

@@ -5,9 +5,9 @@ import { getAllContentIds, getContentData } from '../../lib/contents'
 import { initTweet } from '../../lib/load-external-source'
 
 export default function Post({ postData }) {
-  useEffect(()=>{
+  useEffect(() => {
     initTweet()
-  },[])
+  }, [])
 
   const { locale } = useRouter()
   return (
@@ -30,7 +30,7 @@ export async function getStaticPaths({ locale }) {
   const paths = getAllContentIds('posts', locale)
   return {
     paths,
-    fallback: false
+    fallback: false,
   }
 }
 
@@ -38,7 +38,7 @@ export async function getStaticProps({ params, locale }) {
   const postData = await getContentData('posts', params.id, locale)
   return {
     props: {
-      postData
-    }
+      postData,
+    },
   }
 }
