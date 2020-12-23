@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import {useRouter} from 'next/router'
+import { useRouter } from 'next/router'
 
 export default function Category({ subDirectory, categories, posts }) {
   const router = useRouter()
@@ -19,7 +19,7 @@ export default function Category({ subDirectory, categories, posts }) {
           </a>
         </Link>
       </span>
-      {categories.map(({ name, displayEn, displayJa }) => (
+      {categories.map(({ name, display }) => (
         <span
           key={name}
           className={
@@ -36,7 +36,7 @@ export default function Category({ subDirectory, categories, posts }) {
           />
           <Link href={`/${subDirectory}?category=${name}`}>
             <a>
-              {locale === 'en' ? displayEn : displayJa} (
+              {display[locale]}(
               {posts.filter(({ category }) => category === name).length})
             </a>
           </Link>

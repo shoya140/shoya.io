@@ -2,13 +2,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import Date from '../components/date'
-
-const pages = [
-  { name: '/projects', display: 'Projects' },
-  { name: '/publications', display: 'Publications' },
-  { name: '/software', display: 'Software' },
-  { name: '/posts', display: 'Blog' },
-]
+import config from '../config'
 
 export default function Layout({
   children,
@@ -75,7 +69,7 @@ export default function Layout({
             </Link>
           </div>
           <nav className="nav-container">
-            {pages.map(({ name, display }) => (
+            {config.pages.map(({ name, display }) => (
               <Link href={name} key={name}>
                 <a
                   className={

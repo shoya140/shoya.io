@@ -3,15 +3,13 @@ import { useRouter } from 'next/router'
 import Layout from '../../components/layout'
 import { LinkCard } from '../../components/link'
 import { getSortedContentsData } from '../../lib/contents'
+import config from '../../config'
 
 export default function Posts({ allPostsData }) {
   const { locale } = useRouter()
 
   return (
-    <Layout
-      title={locale === 'en' ? 'Projects' : 'プロジェクト'}
-      isTranslated={'true'}
-    >
+    <Layout title={config.translations.projects[locale]} isTranslated={'true'}>
       <div>
         {allPostsData.map(({ id, date, title, eyecatch, description }) => (
           <LinkCard

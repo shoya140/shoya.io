@@ -5,30 +5,17 @@ import Category from '../../components/category'
 import { LinkList } from '../../components/link'
 import Layout from '../../components/layout'
 import { getSortedContentsData } from '../../lib/contents'
-
-const allCategories = [
-  { name: 'release', displayEn: 'Release', displayJa: 'リリース' },
-  { name: 'research', displayEn: 'Research', displayJa: '研究' },
-  { name: 'development', displayEn: 'Development', displayJa: '開発' },
-  { name: 'sightseeing', displayEn: 'Sightseeing', displayJa: '観光' },
-  { name: 'note', displayEn: 'Note', displayJa: 'メモ' },
-]
-
-const recentEn = 'Recent posts in English'
-const recentJa = '日本語の最新の記事'
+import config from '../../config'
 
 export default function Posts({ allPostsData, anotherLocalePostsData }) {
   const router = useRouter()
   const locale = router.locale
   const anotherLocale = locale === 'en' ? 'ja' : 'en'
   return (
-    <Layout
-      title={locale === 'en' ? 'Blog Posts' : 'ブログ'}
-      isTranslated={'true'}
-    >
+    <Layout title={config.translations.posts[locale]} isTranslated={'true'}>
       <Category
         subDirectory="posts"
-        categories={allCategories}
+        categories={config.postCategories}
         posts={allPostsData}
       />
       <div>
@@ -48,7 +35,7 @@ export default function Posts({ allPostsData, anotherLocalePostsData }) {
           ))}
       </div>
       <div className="post-related">
-        <h3>{anotherLocale === 'ja' ? recentJa : recentEn}</h3>
+        <h3>{config.translations.recentPosts[locale]}</h3>
         <ul>
           {anotherLocalePostsData
             .slice()

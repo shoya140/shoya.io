@@ -4,33 +4,24 @@ import Category from '../../components/category'
 import Layout from '../../components/layout'
 import { LinkList } from '../../components/link'
 import { getSortedContentsData } from '../../lib/contents'
-
-const allCategories = [
-  { name: 'ios', displayEn: 'iOS', displayJa: 'iOS' },
-  { name: 'android', displayEn: 'Android', displayJa: 'Android' },
-  { name: 'desktop', displayEn: 'Desktop', displayJa: 'Desktop' },
-  { name: 'web', displayEn: 'Web', displayJa: 'Web' },
-  { name: 'misc', displayEn: 'Misc', displayJa: 'その他' },
-]
+import config from '../../config'
 
 export default function Posts({ allPostsData }) {
   const router = useRouter()
   const locale = router.locale
   return (
-    <Layout
-      title={locale === 'en' ? 'Software' : 'ソフトウェア'}
-      isTranslated={'true'}
-    >
+    <Layout title={config.translations.software[locale]} isTranslated={'true'}>
       <Category
         subDirectory="software"
-        categories={allCategories}
+        categories={config.postCategories}
         posts={allPostsData}
       />
       <div>
         {allPostsData
           .filter(
             ({ category }) =>
-              router.asPath === '/software' || RegExp(category).test(router.asPath)
+              router.asPath === '/software' ||
+              RegExp(category).test(router.asPath)
           )
           .map(({ id, title, link, category, description }) => (
             <LinkList
