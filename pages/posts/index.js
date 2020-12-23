@@ -1,11 +1,11 @@
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import Date from '../../components/date'
+import Category from '../../components/category'
+import { LinkList } from '../../components/link'
 import Layout from '../../components/layout'
 import { getSortedContentsData } from '../../lib/contents'
 
-const allEn = 'All'
-const allJa = 'すべての記事'
 const allCategories = [
   { name: 'release', displayEn: 'Release', displayJa: 'リリース' },
   { name: 'research', displayEn: 'Research', displayJa: '研究' },
@@ -26,47 +26,11 @@ export default function Posts({ allPostsData, anotherLocalePostsData }) {
       title={locale === 'en' ? 'Blog Posts' : 'ブログ'}
       isTranslated={'true'}
     >
-      <p className="categories">
-        <span
-          className={
-            'category-container ' +
-            (router.asPath === '/posts' ? 'category-active' : '')
-          }
-        >
-          <Link href="/posts">
-            <a>
-              {locale === 'en' ? allEn : allJa} ({allPostsData.length})
-            </a>
-          </Link>
-        </span>
-        {allCategories.map(({ name, displayEn, displayJa }) => (
-          <span
-            key={name}
-            className={
-              'category-container ' +
-              (router.asPath === '/posts/?category=' + name
-                ? 'category-active'
-                : '')
-            }
-          >
-            <img
-              src={`/img/twemoji/${name}.svg`}
-              width="16px"
-              className="category-img"
-            />
-            <Link href={`/posts?category=${name}`}>
-              <a>
-                {locale === 'en' ? displayEn : displayJa} (
-                {
-                  allPostsData.filter(({ category }) => category === name)
-                    .length
-                }
-                )
-              </a>
-            </Link>
-          </span>
-        ))}
-      </p>
+      <Category
+        subDirectory="posts"
+        categories={allCategories}
+        posts={allPostsData}
+      />
       <div>
         {allPostsData
           .filter(
@@ -74,18 +38,13 @@ export default function Posts({ allPostsData, anotherLocalePostsData }) {
               router.asPath === '/posts' || RegExp(category).test(router.asPath)
           )
           .map(({ id, date, title, category }) => (
-            <div className="list-container" key={id}>
-              <Link href={`/posts/${id}`}>
-                <a></a>
-              </Link>
-              <img className="list-img" src={`/img/twemoji/${category}.svg`} />
-              <div className="list-body">
-                <p className="list-date">
-                  <Date dateString={date} locale={locale} />
-                </p>
-                <p className="list-title">{title}</p>
-              </div>
-            </div>
+            <LinkList
+              key={id}
+              link={`/posts/${id}`}
+              img={`/img/icon/${category}.svg`}
+              title={title}
+              body={<Date dateString={date} locale={locale} />}
+            />
           ))}
       </div>
       <div className="post-related">
