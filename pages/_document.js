@@ -1,5 +1,6 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document'
-import { GA_TRACKING_ID } from '../lib/gatag'
+
+import config from 'config'
 
 export default class MyDocument extends Document {
   static async getInitialProps(ctx) {
@@ -13,7 +14,7 @@ export default class MyDocument extends Document {
         <Head>
           <script
             async
-            src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}
+            src={`https://www.googletagmanager.com/gtag/js?id=${config.gaTrackingId}`}
           />
           <script
             dangerouslySetInnerHTML={{
@@ -22,7 +23,7 @@ export default class MyDocument extends Document {
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
 
-            gtag('config', '${GA_TRACKING_ID}', {
+            gtag('config', '${config.gaTrackingId}', {
               page_path: window.location.pathname,
             });
           `,

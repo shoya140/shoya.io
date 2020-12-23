@@ -1,6 +1,7 @@
 import { useRouter } from 'next/router'
-import Layout from '../components/layout'
-import { getAllContentIds, getContentData } from '../lib/contents'
+
+import Layout from 'components/layout'
+import { getAllContentIds, getContentData } from 'lib/contents'
 
 export default function Content({ postData }) {
   const { locale } = useRouter()

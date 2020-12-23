@@ -1,9 +1,10 @@
 import Link from 'next/link'
 import { useRouter } from 'next/router'
-import Layout from '../../components/layout'
-import { LinkCard } from '../../components/link'
-import { getSortedContentsData } from '../../lib/contents'
-import config from '../../config'
+
+import Layout from 'components/layout'
+import { LinkCard } from 'components/link'
+import { getSortedContentsData } from 'lib/contents'
+import config from 'config'
 
 export default function Posts({ allPostsData }) {
   const { locale } = useRouter()

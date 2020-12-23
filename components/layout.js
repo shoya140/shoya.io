@@ -1,8 +1,9 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
-import Date from '../components/date'
-import config from '../config'
+
+import Date from 'components/date'
+import config from 'config'
 
 export default function Layout({
   children,

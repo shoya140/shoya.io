@@ -1,6 +1,7 @@
 import { useRouter } from 'next/router'
-import Layout from '../components/layout'
-import config from '../config'
+
+import Layout from 'components/layout'
+import config from 'config'
 
 export default function Page404() {
   const { locale } = useRouter()

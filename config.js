@@ -1,4 +1,5 @@
 module.exports = {
+  gaTrackingId: 'UA-1918944-8',
   pages: [
     { name: '/projects', display: 'Projects' },
     { name: '/publications', display: 'Publications' },

@@ -1,11 +1,12 @@
 import Link from 'next/link'
 import { useRouter } from 'next/router'
-import Date from '../../components/date'
-import Category from '../../components/category'
-import { LinkList } from '../../components/link'
-import Layout from '../../components/layout'
-import { getSortedContentsData } from '../../lib/contents'
-import config from '../../config'
+
+import Layout from 'components/layout'
+import Date from 'components/date'
+import Category from 'components/category'
+import { LinkList } from 'components/link'
+import { getSortedContentsData } from 'lib/contents'
+import config from 'config'
 
 export default function Posts({ allPostsData, anotherLocalePostsData }) {
   const router = useRouter()

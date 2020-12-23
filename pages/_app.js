@@ -1,6 +1,7 @@
-import NextNprogress from 'nextjs-progressbar'
-import { pageview } from '../lib/gatag'
 import Router from 'next/router'
+import NextNprogress from 'nextjs-progressbar'
+
+import { pageview } from 'lib/gatag'
 
 import '../styles/highlight.css'
 import '../styles/globals.scss'

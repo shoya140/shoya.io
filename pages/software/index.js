@@ -1,10 +1,10 @@
-import Link from 'next/link'
 import { useRouter } from 'next/router'
-import Category from '../../components/category'
-import Layout from '../../components/layout'
-import { LinkList } from '../../components/link'
-import { getSortedContentsData } from '../../lib/contents'
-import config from '../../config'
+
+import Layout from 'components/layout'
+import Category from 'components/category'
+import { LinkList } from 'components/link'
+import { getSortedContentsData } from 'lib/contents'
+import config from 'config'
 
 export default function Posts({ allPostsData }) {
   const router = useRouter()
