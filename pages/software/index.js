@@ -13,7 +13,7 @@ export default function Posts({ allPostsData }) {
     <Layout title={config.translations.software[locale]} isTranslated={'true'}>
       <Category
         subDirectory="software"
-        categories={config.postCategories}
+        categories={config.softwareCategories}
         posts={allPostsData}
       />
       <div>
