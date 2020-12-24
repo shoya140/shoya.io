@@ -19,15 +19,15 @@ $wrapper-padding: 14px;
 
 :root {
   --surface: 255, 255, 255; // #ffffff
-  --background: 241, 243, 244; // #f1f3f4
-  --text: 68, 68, 68; // #444444
-  --brand: 37, 97, 162; // #2561a2
+  --background: 244, 247, 247; // #d7e1e1
+  --text: 29, 31, 37; // #1d1f25
+  --brand: 119, 141, 156; // #778d9c
 
   @media (prefers-color-scheme: dark) {
-    --surface: 35, 40, 52; // #232834;
-    --background: 25, 30, 42; // #191e2a;
-    --text: 238, 238, 238; // #eeeeee;
-    --brand: 164, 211, 249; // #a4d3f9;
+    --surface: 35, 40, 52; // #232834
+    --background: 25, 30, 42; // #191e2a
+    --text: 238, 238, 238; // #eeeeee
+    --brand: 149, 166, 177; // #95a6b1
   }
 }
 
@@ -36,7 +36,6 @@ $background-color: rgba(var(--background), 1);
 $text-color: rgba(var(--text), 1);
 $brand-color: rgba(var(--brand), 1);
 
-$related-color: rgba(var(--background), 0.5);
 $quote-text-color: rgba(var(--text), 0.8);
 $quote-border-color: rgba(var(--brand), 0.6);
 
@@ -118,6 +117,7 @@ a {
 
   &:hover {
     text-decoration: underline;
+    opacity: 0.8;
   }
 }
 
@@ -200,7 +200,7 @@ table {
 
 tr:nth-child(odd) {
   @include media-query($on-palm) {
-    background: $related-color;
+    background: $background-color;
   }
 }
 
@@ -303,6 +303,9 @@ figure {
 .logo-container {
   line-height: $nav-height;
   display: inline-block;
+  a {
+    color: $brand-color;
+  }
 
   @include media-query($on-palm) {
     line-height: 40px;
@@ -332,7 +335,7 @@ figure {
 }
 
 .nav-link {
-  color: $text-color;
+  color: $brand-color;
   line-height: $base-line-height;
   padding: 8px;
 
@@ -358,7 +361,7 @@ figure {
   }
 
   &:hover {
-    opacity: 0.9;
+    opacity: 0.8;
   }
 }
 
@@ -397,7 +400,7 @@ figure {
 
 .layer {
   width: 100%;
-  background-color: $text-color;
+  background-color: $brand-color;
   transition: 0.2s ease all;
   z-index: 1;
 }
@@ -433,7 +436,7 @@ figure {
 #button-10 .knobs span {
   display: inline-block;
   left: 4px;
-  color: $text-color;
+  color: $brand-color;
   z-index: 1;
 }
 
@@ -446,22 +449,13 @@ figure {
 }
 
 #button-10 .checkbox:checked + .knobs:after {
-  color: $text-color;
+  color: $brand-color;
 }
 
 .site-footer {
   padding: 1rem 0 2rem 0;
   font-size: $small-font-size;
   text-align: center;
-
-  a {
-    color: $text-color;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
-  }
 }
 
 .card {
@@ -554,9 +548,6 @@ figure {
   display: inline-block;
   margin-right: 0.5rem;
   margin-left: 0.5rem;
-  a {
-    color: $text-color;
-  }
 }
 
 .category-img {
@@ -659,7 +650,7 @@ figure {
 }
 
 .post-related {
-  background: $related-color;
+  background: $background-color;
   margin-top: 40px;
   padding: 8px 24px 16px 24px;
   border-radius: 0.3rem;

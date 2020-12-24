@@ -39,11 +39,11 @@ description: "石丸翔也は工学博士・ドイツ人工知能研究センタ
 |||
 |:---:|:---|
 |<tt>2016-2019</tt>|博士 (工学) <a href="https://www.uni-kl.de">カイザースラウテルン工科大学</a> <span class="no-wrap"></span>|
-||“Meta-Augmented Human: From Physical to Cognitive Towards Affective State Recognition” (Reviewed by Prof. Andreas Dengel, Prof. Paul Lukowicz, and Prof. Koichi Kise)
+||“Meta-Augmented Human: From Physical to Cognitive Towards Affective State Recognition”, Reviewers: Prof. Andreas Dengel, Prof. Paul Lukowicz, and Prof. Koichi Kise|
 |<tt>2014-2016</tt>|修士 (工学) <a href="http://www.eng.osakafu-u.ac.jp/">大阪府立大学大学院</a> 工学研究科|
-||“Eyewear Computing for Cognitive Activity Recognition” (Reviewed by Prof. Koichi Kise, Prof. Tomoharu Nakashima, and Prof. Hisao Ishibuchi)|
+||“Eyewear Computing for Cognitive Activity Recognition”, Reviewers: Prof. Koichi Kise, Prof. Tomoharu Nakashima, and Prof. Hisao Ishibuchi|
 |<tt>2010-2014</tt>|学士 (工学) <a href="http://www.osakafu-u.ac.jp/">大阪府立大学</a> 工学部 <span class="no-wrap">知能情報工学科</span>|
-||“Activity Recognition with Google Glass: Combining Head Motion and Eye Blink Frequency” (Reviewed by Prof. Koichi Kise and Prof. Kai Kunze)|
+||“Activity Recognition with Google Glass: Combining Head Motion and Eye Blink Frequency”, Reviewers: Prof. Koichi Kise and Prof. Kai Kunze|
 |<tt>留学</tt>|<a href="http://www.univ-larochelle.fr/?lang=en">ラ・ロシェル大学</a> (2015.09-10), <a href="https://www.uni-kl.de/en/home/">カイザースラウテルン工科大学</a> (2013.10-2014.03)|
 
 ## 修士論文指導

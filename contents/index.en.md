@@ -39,11 +39,11 @@ description: "Dr. Shoya Ishimaru is a Senior Researcher at the German Research C
 |||
 |:---:|:---|
 |<tt>2016-2019</tt>|PhD in Engineering, <a href="https://www.uni-kl.de/en/home/">University of Kaiserslautern</a>|
-||“Meta-Augmented Human: From Physical to Cognitive Towards Affective State Recognition” (Reviewed by Prof. Andreas Dengel, Prof. Paul Lukowicz, and Prof. Koichi Kise)
+||“Meta-Augmented Human: From Physical to Cognitive Towards Affective State Recognition”, Reviewers: Prof. Andreas Dengel, Prof. Paul Lukowicz, and Prof. Koichi Kise|
 |<tt>2014-2016</tt>|Master of Engineering, <a href="http://www.eng.osakafu-u.ac.jp/english/">Graduate School of Engineering, Osaka Prefecture University</a>|
-||“Eyewear Computing for Cognitive Activity Recognition” (Reviewed by Prof. Koichi Kise, Prof. Tomoharu Nakashima, and Prof. Hisao Ishibuchi)|
+||“Eyewear Computing for Cognitive Activity Recognition”, Reviewers: Prof. Koichi Kise, Prof. Tomoharu Nakashima, and Prof. Hisao Ishibuchi|
 |<tt>2010-2014</tt>|Bachelor of Engineering, <a href="https://www.osakafu-u.ac.jp/en/">Osaka Prefecture University</a>|
-||“Activity Recognition with Google Glass: Combining Head Motion and Eye Blink Frequency” (Reviewed by Prof. Koichi Kise and Prof. Kai Kunze)|
+||“Activity Recognition with Google Glass: Combining Head Motion and Eye Blink Frequency”, Reviewers: Prof. Koichi Kise and Prof. Kai Kunze|
 |<tt>Visiting</tt>|<a href="http://www.univ-larochelle.fr/?lang=en">University of La Rochelle</a> (2015.09-10), <a href="https://www.uni-kl.de/en/home/">University of Kaiserslautern</a> (2013.10-2014.03)|
 
 ## Master Thesis Supervision
