@@ -696,6 +696,10 @@ a.anchor-title {
   color: $text-color;
 }
 
+p.reference {
+  line-height: $base-line-height;
+}
+
 .anchor-position {
   display: block;
   position: relative;

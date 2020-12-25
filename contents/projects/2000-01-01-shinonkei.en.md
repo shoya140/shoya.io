@@ -11,4 +11,4 @@ Mental illness, especially depression is one of the most pressing concerns all o
 
 ## Related Publications
 
-<ol><li><p><span class="anchor-position" id="ishimaru2015quantifying"></span><u>Shoya Ishimaru</u> and Koichi Kise. <b>“<a href="#ishimaru2015quantifying" class="anchor-title">Quantifying the Mental State on the Basis of Physical and Social Activities</a>”</b>. In Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct Publication (UbiComp '15 Adjunct), pp.&nbsp;1217–1220, 2015. <a href="/bibtex/ishimaru2015quantifying.bib" target="_blank">BibTeX</a> <a href="/preprint/ishimaru2015quantifying.pdf" target="_blank">PDF</a></p></li></ol>
+@[references](ishimaru2015quantifying)
