@@ -36,7 +36,7 @@ export default function Category({ subDirectory, categories, posts }) {
           />
           <Link href={`/${subDirectory}?category=${name}`}>
             <a>
-              {display[locale]}(
+              {display[locale]} (
               {posts.filter(({ category }) => category === name).length})
             </a>
           </Link>
