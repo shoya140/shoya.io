@@ -116,8 +116,10 @@ a {
   text-decoration: none;
 
   &:hover {
-    text-decoration: underline;
-    opacity: 0.8;
+    @media (hover: hover) {
+      text-decoration: underline;
+      opacity: 0.8;
+    }
   }
 }
 
@@ -341,8 +343,10 @@ figure {
   margin: 6px;
 
   &:hover {
-    text-decoration: none;
-    background: linear-gradient(transparent 96%, $brand-color 96%);
+    @media (hover: hover) {
+      text-decoration: none;
+      background: linear-gradient(transparent 96%, $brand-color 96%);
+    }
   }
 }
 
@@ -364,7 +368,9 @@ figure {
   }
 
   &:hover {
-    opacity: 0.8;
+    @media (hover: hover) {
+      opacity: 0.8;
+    }
   }
 }
 
@@ -473,9 +479,11 @@ figure {
   transition: all 0.2s;
 
   &:hover {
-    background-color: $background-color;
-    -webkit-transition: all 0.1s;
-    transition: all 0.1s;
+    @media (hover: hover) {
+      background-color: $background-color;
+      -webkit-transition: all 0.1s;
+      transition: all 0.1s;
+    }
   }
 
   a {
@@ -554,8 +562,10 @@ figure {
   padding-left: 0.1rem;
 
   &:hover {
-    text-decoration: none;
-    background: linear-gradient(transparent 96%, $brand-color 96%);
+    @media (hover: hover) {
+      text-decoration: none;
+      background: linear-gradient(transparent 96%, $brand-color 96%);
+    }
   }
 }
 
@@ -582,9 +592,11 @@ figure {
   transition: all 0.2s;
 
   &:hover {
-    background-color: $background-color;
-    -webkit-transition: all 0.1s;
-    transition: all 0.1s;
+    @media (hover: hover) {
+      background-color: $background-color;
+      -webkit-transition: all 0.1s;
+      transition: all 0.1s;
+    }
   }
 
   a {
