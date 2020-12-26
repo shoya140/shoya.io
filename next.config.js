@@ -4,4 +4,18 @@ module.exports = {
     defaultLocale: 'en',
     localeDetection: false,
   },
+  async redirects() {
+    return [
+      {
+        source: '/feed',
+        destination: '/feed.xml',
+        permanent: true,
+      },
+      {
+        source: '/sitemap',
+        destination: '/sitemap.xml',
+        permanent: true,
+      },
+    ]
+  },
 }

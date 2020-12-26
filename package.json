@@ -3,15 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "npm run prebuild && next dev",
+    "build": "npm run prebuild && next build",
     "start": "next start",
+    "prebuild": "node scripts/export-xml.js",
     "fmt": "prettier --write 'components/**/*.js' 'lib/**/*.js' 'pages/**/*.js' 'styles/**/*.scss' '*.{js, json}'"
   },
   "dependencies": {
     "bibtex-parse": "^2.1.0",
     "date-fns": "^2.16.1",
-    "fontmin": "^0.9.8",
     "gray-matter": "^4.0.2",
     "highlight.js": "^10.5.0",
     "markdown-it": "^12.0.4",
