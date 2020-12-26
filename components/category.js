@@ -18,9 +18,8 @@ export default function Category({ subDirectory, categories, posts }) {
         </a>
       </Link>
       {categories.map(({ name, display }) => (
-        <Link href={`/${subDirectory}?category=${name}`}>
+        <Link href={`/${subDirectory}?category=${name}`} key={name}>
           <a
-            key={name}
             className={
               'category-container ' +
               (router.asPath === `/${subDirectory}?category=${name}`
