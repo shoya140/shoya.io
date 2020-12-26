@@ -337,15 +337,18 @@ figure {
 .nav-link {
   color: $brand-color;
   line-height: $base-line-height;
-  padding: 8px;
+  padding: 2px;
+  margin: 6px;
 
   &:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    background: linear-gradient(transparent 96%, $brand-color 96%);
   }
 }
 
 .nav-active {
-  text-decoration: underline;
+  text-decoration: none;
+  background: linear-gradient(transparent 96%, $brand-color 96%);
 }
 
 // https://codepen.io/himalayasingh/pen/EdVzNL
@@ -547,7 +550,13 @@ figure {
 .category-container {
   display: inline-block;
   margin-right: 0.5rem;
-  margin-left: 0.5rem;
+  margin-left: 0.4rem;
+  padding-left: 0.1rem;
+
+  &:hover {
+    text-decoration: none;
+    background: linear-gradient(transparent 96%, $brand-color 96%);
+  }
 }
 
 .category-img {
@@ -556,7 +565,8 @@ figure {
 }
 
 .category-active {
-  text-decoration: underline;
+  text-decoration: none;
+  background: linear-gradient(transparent 96%, $brand-color 96%);
 }
 
 .list-container {

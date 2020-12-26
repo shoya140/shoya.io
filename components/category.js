@@ -7,40 +7,36 @@ export default function Category({ subDirectory, categories, posts }) {
 
   return (
     <p className="categories">
-      <span
-        className={
-          'category-container ' +
-          (router.asPath === `/${subDirectory}` ? 'category-active' : '')
-        }
-      >
-        <Link href={`/${subDirectory}`}>
-          <a>
-            {locale === 'en' ? 'All' : 'すべて'} ({posts.length})
-          </a>
-        </Link>
-      </span>
-      {categories.map(({ name, display }) => (
-        <span
-          key={name}
+      <Link href={`/${subDirectory}`}>
+        <a
           className={
             'category-container ' +
-            (router.asPath === `/${subDirectory}?category=${name}`
-              ? 'category-active'
-              : '')
+            (router.asPath === `/${subDirectory}` ? 'category-active' : '')
           }
         >
-          <img
-            src={`/img/icon/${name}.svg`}
-            width="16px"
-            className="category-img"
-          />
-          <Link href={`/${subDirectory}?category=${name}`}>
-            <a>
-              {display[locale]} (
-              {posts.filter(({ category }) => category === name).length})
-            </a>
-          </Link>
-        </span>
+          {locale === 'en' ? 'All' : 'すべて'} ({posts.length})
+        </a>
+      </Link>
+      {categories.map(({ name, display }) => (
+        <Link href={`/${subDirectory}?category=${name}`}>
+          <a
+            key={name}
+            className={
+              'category-container ' +
+              (router.asPath === `/${subDirectory}?category=${name}`
+                ? 'category-active'
+                : '')
+            }
+          >
+            <img
+              src={`/img/icon/${name}.svg`}
+              width="16px"
+              className="category-img"
+            />
+            {display[locale]} (
+            {posts.filter(({ category }) => category === name).length})
+          </a>
+        </Link>
       ))}
     </p>
   )

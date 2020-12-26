@@ -136,9 +136,9 @@ export default function Layout({
             |{' '}
             <Link href="/privacy">
               <a>Privacy Policy</a>
-            </Link>
-            {' '} | {' '}
-            <Link href='/feed'>
+            </Link>{' '}
+            |{' '}
+            <Link href="/feed">
               <a>RSS</a>
             </Link>
           </p>
