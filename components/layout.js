@@ -12,13 +12,16 @@ export default function Layout({
   isTranslated,
   description,
   keywords,
-  eyecatch = 'https://shoya.io/img/icon_portrait.jpg',
+  eyecatch,
 }) {
   const router = useRouter()
   const locale = router.locale
   const url = `https://shoya.io${
     router.locale === 'en' ? '' : '/' + router.locale
   }${router.asPath}`
+  const eyeratchURL = eyecatch
+    ? `https://shoya.io${eyecatch}`
+    : 'https://shoya.io/img/icon_portrait.jpg'
 
   return (
     <div>
@@ -40,7 +43,7 @@ export default function Layout({
         {description && (
           <meta property="og:description" content={description} />
         )}
-        {description && <meta property="og:image" content={eyecatch} />}
+        {description && <meta property="og:image" content={eyeratchURL} />}
         {description && <meta property="og:type" content="article" />}
         <title>{`${title} - shoya.io`}</title>
         <link rel="canonical" href={url} />
