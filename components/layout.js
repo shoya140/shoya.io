@@ -1,8 +1,9 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
+import Mikan from 'mikanjs'
 
-import Date from 'components/date'
+import { convertDate } from 'lib/date'
 import config from 'config'
 
 export default function Layout({
@@ -118,9 +119,13 @@ export default function Layout({
 
       <div className="title">
         <div className="wrapper">
-          <h1>{title}</h1>
+          <h1>
+            {Mikan.split(title).map((text) => (
+              <span className="no-break">{text.replace(/\s/g, '\u00A0')}</span>
+            ))}
+          </h1>
           <p className="post-date">
-            {date ? <Date dateString={date} locale={locale} /> : '\u00A0'}
+            {date ? convertDate(date, locale) : '\u00A0'}
           </p>
         </div>
       </div>

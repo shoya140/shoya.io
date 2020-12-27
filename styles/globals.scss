@@ -516,7 +516,7 @@ figure {
   }
 }
 
-.card-body {
+.card-text-container {
   padding: 1.1em 1.3em 1.3em 1.3em;
 
   @include media-query($on-palm) {
@@ -530,7 +530,7 @@ figure {
   line-height: $small-line-height;
 }
 
-.card-text {
+.card-body {
   margin: 0;
   text-align: justify;
 }
@@ -626,7 +626,7 @@ figure {
   background-color: $background-color;
 }
 
-.list-body {
+.list-text-container {
   margin-left: 10px;
 
   .list-title {
@@ -635,7 +635,7 @@ figure {
     line-height: $small-line-height;
   }
 
-  .list-date {
+  .list-body {
     margin: 0;
     padding-bottom: 2px;
     font-size: $small-font-size;
@@ -725,4 +725,8 @@ li.reference {
   position: relative;
   top: -1rem;
   visibility: hidden;
+}
+
+.no-break {
+  display: inline-block;
 }

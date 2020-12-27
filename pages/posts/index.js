@@ -2,10 +2,10 @@ import Link from 'next/link'
 import { useRouter } from 'next/router'
 
 import Layout from 'components/layout'
-import Date from 'components/date'
 import Category from 'components/category'
 import { LinkList } from 'components/link'
 import { getSortedContentsData } from 'lib/contents'
+import { convertDate } from 'lib/date'
 import config from 'config'
 
 export default function Posts({ allPostsData, anotherLocalePostsData }) {
@@ -31,7 +31,7 @@ export default function Posts({ allPostsData, anotherLocalePostsData }) {
               link={`/posts/${id}`}
               img={`/img/icon/${category}.svg`}
               title={title}
-              body={<Date dateString={date} locale={locale} />}
+              body={convertDate(date, locale)}
             />
           ))}
       </div>

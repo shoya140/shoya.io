@@ -16,6 +16,7 @@
     "highlight.js": "^10.5.0",
     "markdown-it": "^12.0.4",
     "markdown-it-custom-block": "^0.1.2",
+    "mikanjs": "^1.0.11",
     "next": "10.0.4",
     "nextjs-progressbar": "^0.0.7",
     "react": "17.0.1",
