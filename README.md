@@ -24,5 +24,6 @@ $ yarn start
 
 ## Archived Repositories
 
-* [shoya140/shoya.io.v4](https://github.com/shoya140/shoya.io.v4): Hugo implementation
-* [shoya140/shoya.io.v3](https://github.com/shoya140/shoya.io.v3): Jekyll implementation
+* [shoya140/v4.shoya.io](https://github.com/shoya140/v4.shoya.io): Hugo implementation
+* [shoya140/v3.shoya.io](https://github.com/shoya140/v3.shoya.io): Jekyll implementation
+* [shoya140/mrk1869.com](https://github.com/shoya140/mrk1869.com): Jekyll implementation
