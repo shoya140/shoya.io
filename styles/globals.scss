@@ -714,8 +714,10 @@ a.anchor-title {
   color: $text-color;
 }
 
-p.reference {
+li.reference {
   line-height: $base-line-height;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .anchor-position {
