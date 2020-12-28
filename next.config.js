@@ -4,6 +4,9 @@ module.exports = {
     defaultLocale: 'en',
     localeDetection: false,
   },
+  experimental: {
+    optimizeFonts: true,
+  },
   async redirects() {
     return [
       {

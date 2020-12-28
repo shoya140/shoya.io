@@ -55,6 +55,10 @@ export default function Layout({
           title="shoya.io"
           href="https://shoya.io/opensearch.xml"
         />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600&display=swap"
+        />
       </Head>
 
       <header className="site-header">
