@@ -90,7 +90,7 @@ function generateSitemap(posts) {
 var allContents = []
 
 for (const locale of locales) {
-  const localePrefix = locale === 'en' ? '/' : `/${locale}/`
+  const localePrefix = locale === 'en' ? '' : `/${locale}`
 
   for (const subDirectory of subDirectories) {
     allContents = allContents.concat(
@@ -108,7 +108,7 @@ for (const locale of locales) {
             matterResult.data.date = pattern[1]
             id = id.replace(`${pattern[1]}-`, '')
           }
-          matterResult.data.url = `${site.url}${localePrefix}${id}`
+          matterResult.data.url = `${site.url}${localePrefix}/${subDirectory}/${id}`
 
           return {
             id,
