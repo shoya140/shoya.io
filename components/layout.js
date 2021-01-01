@@ -141,7 +141,7 @@ export default function Layout({
       <div className="site-footer">
         <div className="wrapper">
           <p>
-            © 2020
+            © 2021
             <Link href="/home" as="/">
               <a> Shoya Ishimaru</a>
             </Link>{' '}
