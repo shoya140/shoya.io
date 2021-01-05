@@ -2,11 +2,11 @@
 title: 2019年振り返り
 category: 'note'
 keywords: ['振り返り']
-eyecatch: /img/blog_looking_back_at_2019.jpg
+eyecatch: /img/blog_looking_back_on_2019.jpg
 description: "2019年は過渡期とか模索といった言葉が合う一年でした。これまでやってきた、仕事と生活のバランス、研究の進め方、論文の書き方、学生との接し方などを見直して、試行錯誤する時間が長かった印象があります。"
 ---
 
-![ ](/img/blog_looking_back_at_2019.jpg)
+![ ](/img/blog_looking_back_on_2019.jpg)
 
 2019年は過渡期とか模索といった言葉が合う一年でした。これまでやってきた、仕事と生活のバランス、研究の進め方、論文の書き方、学生との接し方などを見直して、試行錯誤する時間が長かった印象があります。
 
