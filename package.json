@@ -3,10 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "npm run prebuild && next dev",
-    "build": "npm run prebuild && next build",
+    "dev": "node scripts/export-xml.js && next dev",
+    "build": "node scripts/export-xml.js && next build",
     "start": "next start",
-    "prebuild": "node scripts/export-xml.js",
     "fmt": "prettier --write 'components/**/*.js' 'lib/**/*.js' 'pages/**/*.js' 'styles/**/*.scss' '*.{js, json}'"
   },
   "dependencies": {
