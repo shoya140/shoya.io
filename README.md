@@ -4,22 +4,16 @@ My portfolio and weblog using [Next.js](https://nextjs.org/)
 
 ## Getting Started
 
-Compiles and hot-reloads for development
+Compile and hot-reload this project
 
 ```
 $ yarn dev
 ```
 
-Compiles and minifies for production
+Run a web server with a production build
 
 ```
-$ yarn build
-```
-
-Run a web server with the production build
-
-```
-$ yarn start
+$ yarn build && yarn start
 ```
 
 ## Archived Repositories
