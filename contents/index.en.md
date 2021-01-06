@@ -86,12 +86,13 @@ description: "Dr. Shoya Ishimaru is a Senior Researcher at the German Research C
 
 |||
 |:---:|:---|
+|<tt>2021.02</tt>|Program Committee for <a href="https://augmented-humans.org/">Augmented Humans 2021</a>|
 |<tt>2020.03</tt>|Program Co-Chair for <a href="https://augmented-humans.org/">Augmented Humans 2020</a>|
 |<tt>2019.09</tt>|Co-Organizer for <a href="http://eyewear.pro/eyewild2019/">EyeWild 2019</a>|
 |<tt>2019.03</tt>|Program Committee for <a href="https://perpersuasion.ubi-lab.com/?fbclid=IwAR1QiuoopBcAkAVmGFygEcY4mYqrO-KjhzXZF664nhMdBb1uK1o5tFp7E4I">PerPersuasion 2019</a>|
 |<tt>2018.10</tt>|Program Committee for <a href="http://www.dfki.uni-kl.de/~kieni/read2018/">READ 2018</a>|
 |<tt>2015.03</tt>|Co-Organizer for <a href="http://recruit-jinji.jp/adf_fes2015/">Application Developer Festival 2015</a>|
-|<tt>Reviewing</tt>|IMWUT, IJDAR, ISWC '20, CHI '20, MobileHCI '20, PerPersuasion '19, READ '18, HDI '17|
+|<tt>Reviewing</tt>|IMWUT, IJDAR, IUI '21, AHs '21, ISWC '20, CHI '20, MobileHCI '20, PerPersuasion '19, READ '18, HDI '17|
 
 ## Awards and Honorable Activities
 
