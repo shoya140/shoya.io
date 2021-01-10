@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "node scripts/export-xml.js && next dev",
+    "dev": "node scripts/export-xml.js && next-remote-watch contents",
     "build": "node scripts/export-xml.js && next build",
     "start": "next start",
     "fmt": "prettier --write 'components/**/*.js' 'lib/**/*.js' 'pages/**/*.js' 'styles/**/*.scss' '*.{js, json}'"
@@ -17,6 +17,7 @@
     "markdown-it-custom-block": "^0.1.2",
     "mikanjs": "^1.0.11",
     "next": "10.0.4",
+    "next-remote-watch": "^0.3.0",
     "nextjs-progressbar": "^0.0.7",
     "react": "17.0.1",
     "react-dom": "17.0.1",
