@@ -92,7 +92,7 @@ description: "石丸翔也は工学博士、ドイツ人工知能研究センタ
 |<tt>2019.03</tt>|<a href="https://perpersuasion.ubi-lab.com/?fbclid=IwAR1QiuoopBcAkAVmGFygEcY4mYqrO-KjhzXZF664nhMdBb1uK1o5tFp7E4I">PerPersuasion 2019</a> Program Committee|
 |<tt>2018.10</tt>|<a href="http://www.dfki.uni-kl.de/~kieni/read2018/">READ 2018</a> Program Committee|
 |<tt>2015.03</tt>|<a href="http://recruit-jinji.jp/adf_fes2015/">Application Developer Festival 2015</a> Co-Organizer|
-|<tt>査読</tt>|IMWUT, IJDAR, IUI '21, AHs '21, ISWC '20, CHI '20, MobileHCI '20, PerPersuasion '19, READ '18, HDI '17|
+|<tt>査読</tt>|IMWUT, IJDAR, IUI '21, AHs '21, CHI '21 '20, ISWC '20, MobileHCI '20, PerCom-PerPersuasion '19, READ '18, ICDAR-HDI '17|
 
 ## 受賞・特筆的活動
 
