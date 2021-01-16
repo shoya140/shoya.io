@@ -92,7 +92,7 @@ description: "Dr. Shoya Ishimaru is a Senior Researcher at the German Research C
 |<tt>2019.03</tt>|Program Committee for <a href="https://perpersuasion.ubi-lab.com/?fbclid=IwAR1QiuoopBcAkAVmGFygEcY4mYqrO-KjhzXZF664nhMdBb1uK1o5tFp7E4I">PerPersuasion 2019</a>|
 |<tt>2018.10</tt>|Program Committee for <a href="http://www.dfki.uni-kl.de/~kieni/read2018/">READ 2018</a>|
 |<tt>2015.03</tt>|Co-Organizer for <a href="http://recruit-jinji.jp/adf_fes2015/">Application Developer Festival 2015</a>|
-|<tt>Reviewing</tt>|IMWUT, IJDAR, IUI '21, AHs '21, CHI '21 '20, ISWC '20, MobileHCI '20, PerCom-PerPersuasion '19, READ '18, ICDAR-HDI '17|
+|<tt>Reviewing</tt>|IUI '21, AHs '21, CHI '21 '20, IMWUT '20 Feb. '19 Aug. '18 Nov., ISWC '20, MobileHCI '20, PerCom-PerPersuasion '19, IJDAR '18, READ '18, ICDAR-HDI '17|
 
 ## Awards and Honorable Activities
 
