@@ -22,7 +22,7 @@ export default function Layout({
   }${router.asPath}`
   const eyeratchURL = eyecatch
     ? `https://shoya.io${eyecatch}`
-    : 'https://shoya.io/img/icon_portrait.jpg'
+    : 'https://shoya.io/img/icon_dot.png'
 
   return (
     <div>

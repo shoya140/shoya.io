@@ -2,6 +2,7 @@
 title: "石丸 翔也 (Shoya Ishimaru)"
 keywords: ["Shoya Ishimaru", "Ishimaru Shoya", "石丸 翔也", "石丸翔也", "Shoya", "Ishimaru", "shoya140", "DFKI", "Kaiserslautern", "Portfolio", "ポートフォリオ"]
 description: "石丸翔也は工学博士、ドイツ人工知能研究センター (DFKI) シニアリサーチャー、IPA未踏スーパークリエータ、未踏ジュニアメンター。眼鏡型ウェアラブルコンピューティングや学習支援を中心に、人の知性 (物事を学び・考え・伝える能力) を拡張する技術の研究をしています。"
+eyecatch: "/img/icon_portrait.jpg"
 ---
 
 <div class="bio">
