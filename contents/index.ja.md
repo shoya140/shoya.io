@@ -87,7 +87,7 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
-|<tt>2021.02</tt>|Program Committee for <a href="https://augmented-humans.org/">Augmented Humans 2021</a>|
+|<tt>2021.02</tt>|<a href="https://augmented-humans.org/">Augmented Humans 2021</a> Program Committee|
 |<tt>2020.03</tt>|<a href="https://augmented-humans.org/">Augmented Humans 2020</a> Program Co-Chair|
 |<tt>2019.09</tt>|<a href="http://eyewear.pro/eyewild2019/">EyeWild 2019</a> Co-Organizer|
 |<tt>2019.03</tt>|<a href="https://perpersuasion.ubi-lab.com/?fbclid=IwAR1QiuoopBcAkAVmGFygEcY4mYqrO-KjhzXZF664nhMdBb1uK1o5tFp7E4I">PerPersuasion 2019</a> Program Committee|
