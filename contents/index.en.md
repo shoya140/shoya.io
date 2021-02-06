@@ -24,6 +24,7 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
+|<tt>2021-*&nbsp;&nbsp;&nbsp;</tt>|Chief Research Officer (CRO), <a href="https://alphaben.app">Alphaben</a>|
 |<tt>2020-*&nbsp;&nbsp;&nbsp;</tt>|Mentor (PM), <a href="https://jr.mitou.org/">Mitou Junior</a>|
 |<tt>2016-*&nbsp;&nbsp;&nbsp;</tt>|Visiting Researcher, <span class="no-wrap"><a href="http://www.osakafu-u.ac.jp/english/">Osaka Prefecture University</a></span>|
 |<tt>2014-*&nbsp;&nbsp;&nbsp;</tt>|Researcher, <span class="no-wrap"><a href="http://www.kmd.keio.ac.jp/">Keio Media Design Research Institute</a></span>|

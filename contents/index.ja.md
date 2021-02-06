@@ -24,6 +24,7 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
+|<tt>2021-現在</tt>|<a href="https://alphaben.app">Alphaben</a> 最高研究責任者 (CRO)|
 |<tt>2020-現在</tt>|<a href="https://jr.mitou.org/">未踏ジュニア</a> メンター (PM)|
 |<tt>2016-現在</tt>|<a href="http://www.osakafu-u.ac.jp/">大阪府立大学</a> <span class="no-wrap">客員研究員</span>|
 |<tt>2014-現在</tt>|<a href="http://www.kmd.keio.ac.jp/jp/">慶應義塾大学KMD研究所</a> <span class="no-wrap">研究員</span>|
