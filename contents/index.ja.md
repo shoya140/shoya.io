@@ -1,33 +1,38 @@
 ---
 title: "石丸 翔也 (Shoya Ishimaru)"
 keywords: ["Shoya Ishimaru", "Ishimaru Shoya", "石丸 翔也", "石丸翔也", "Shoya", "Ishimaru", "shoya140", "DFKI", "Kaiserslautern", "Portfolio", "ポートフォリオ"]
-description: "石丸翔也は工学博士、ドイツ人工知能研究センター (DFKI) シニアリサーチャー、IPA未踏スーパークリエータ、未踏ジュニアメンター。眼鏡型ウェアラブルコンピューティングや学習支援を中心に、人の知性 (物事を学び・考え・伝える能力) を拡張する技術の研究をしています。"
+description: "石丸翔也は工学博士、Alphaben CRO、ドイツ人工知能研究センター (DFKI) シニアリサーチャー、IPA未踏スーパークリエータ、未踏ジュニアメンター。眼鏡型ウェアラブルコンピューティングや学習支援を中心に、人の知性 (物事を学び・考え・伝える能力) を拡張する技術の研究をしています。"
 eyecatch: "/img/icon_portrait.jpg"
 ---
 
 <div class="bio">
     <img src="/img/icon_portrait.jpg" class="image-portrait" width="130px" height="130px" alt="石丸 翔也">
-    <p>工学博士 / ドイツ人工知能研究センター (DFKI) シニアリサーチャー / IPA未踏スーパークリエータ / 未踏ジュニア メンター。眼鏡型ウェアラブルコンピューティングや学習支援を中心に、人の知性 (物事を学び・考え・伝える能力) を拡張する技術の研究をしています。[<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Google Scholar</a>]</p>
+    <p>工学博士 / Alphaben CRO / ドイツ人工知能研究センター (DFKI) シニアリサーチャー / IPA未踏スーパークリエータ / 未踏ジュニア メンター。眼鏡型ウェアラブルコンピューティングや学習支援を中心に、人の知性 (物事を学び・考え・伝える能力) を拡張する技術の研究をしています。[<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Google Scholar</a>]</p>
 </div>
 
 ![ ](/img/topics.png)
 
-## 職歴
-
-|||
-|:---:|:---|
-|<tt>2019-現在</tt>|<a href="https://www.dfki.de/web/">ドイツ人工知能研究センター (DFKI)</a> <span class="no-wrap">シニアリサーチャー</span>|
-|<tt>2016-2019</tt>|<a href="https://www.dfki.de/web/">ドイツ人工知能研究センター (DFKI)</a> <span class="no-wrap">リサーチャー</span>|
-|<tt>2016-2019</tt>|<a href="https://www.uni-kl.de">カイザースラウテルン工科大学</a> <span class="no-wrap">リサーチアソシエイト</span>|
-
-## 非常勤・インターン・ボランティア
+## 職歴 (企業)
 
 |||
 |:---:|:---|
 |<tt>2021-現在</tt>|<a href="https://alphaben.app">Alphaben</a> 最高研究責任者 (CRO)|
-|<tt>2020-現在</tt>|<a href="https://jr.mitou.org/">未踏ジュニア</a> メンター (PM)|
+|<tt>2019-現在</tt>|<a href="https://www.dfki.de/web/">ドイツ人工知能研究センター (DFKI)</a> <span class="no-wrap">シニアリサーチャー</span>|
+|<tt>2016-2019</tt>|<a href="https://www.dfki.de/web/">ドイツ人工知能研究センター (DFKI)</a> <span class="no-wrap">リサーチャー</span>|
+
+## 職歴 (大学)
+
+|||
+|:---:|:---|
 |<tt>2016-現在</tt>|<a href="http://www.osakafu-u.ac.jp/">大阪府立大学</a> <span class="no-wrap">客員研究員</span>|
 |<tt>2014-現在</tt>|<a href="http://www.kmd.keio.ac.jp/jp/">慶應義塾大学KMD研究所</a> <span class="no-wrap">研究員</span>|
+|<tt>2016-2019</tt>|<a href="https://www.uni-kl.de">カイザースラウテルン工科大学</a> <span class="no-wrap">リサーチアソシエイト</span>|
+
+## インターン・ボランティア
+
+|||
+|:---:|:---|
+|<tt>2020-現在</tt>|<a href="https://jr.mitou.org/">未踏ジュニア</a> メンター (PM)|
 |<tt>2013-2015</tt>|<a href="https://life-is-tech.com/">株式会社ライフイズテック</a> メンター|
 |<tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015</tt>|<a href="https://www.recruit.jp/">株式会社リクルートホールディングス</a> <span class="no-wrap">インターンシップ</span>|
 |<tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014</tt>|<a href="https://www.livesense.co.jp/">株式会社リブセンス</a> <span class="no-wrap">エンジニア インターンシップ</span>|

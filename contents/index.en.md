@@ -1,33 +1,38 @@
 ---
 title: "Shoya Ishimaru"
 keywords: ["Shoya Ishimaru", "Ishimaru Shoya", "石丸 翔也", "石丸翔也", "Shoya", "Ishimaru", "shoya140", "DFKI", "Kaiserslautern", "Portfolio", "ポートフォリオ"]
-description: "Dr. Shoya Ishimaru is a Senior Researcher at the German Research Center for Artificial Intelligence (DFKI). His research interest is to invent new technologies augmenting human intellect."
+description: "Dr. Shoya Ishimaru is a Senior Researcher at the German Research Center for Artificial Intelligence (DFKI) and the Chief Research Officer of Alphaben. His research interest is to invent new technologies augmenting human intellect."
 eyecatch: "/img/icon_portrait.jpg"
 ---
 
 <div class="bio">
     <img src="/img/icon_portrait.jpg" class="image-portrait" width="130px" height="130px" alt="Shoya Ishimaru">
-    <p>Dr. Shoya Ishimaru is a Senior Researcher at the German Research Center for Artificial Intelligence (DFKI). His research interest is to invent new technologies augmenting human intellect [<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Google Scholar</a>]. He received his PhD in Engineering at the University of Kaiserslautern and the title of MITOU Super Creator by Ministry of Economy, Trade, and Industry in Japan.</p>
+    <p>Dr. Shoya Ishimaru is a Senior Researcher at the German Research Center for Artificial Intelligence (DFKI) and the Chief Research Officer of Alphaben. His research interest is to invent new technologies augmenting human intellect [<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Google Scholar</a>]. He received his PhD in Engineering at the University of Kaiserslautern and the title of MITOU Super Creator by Ministry of Economy, Trade, and Industry in Japan.</p>
 </div>
 
 ![ ](/img/topics.png)
 
-## Work Experience
-
-|||
-|:---:|:---|
-|<tt>2019-*&nbsp;&nbsp;&nbsp;</tt>|Senior Researcher, <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a>|
-|<tt>2016-2019</tt>|Researcher, <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a>|
-|<tt>2016-2019</tt>|Research Associate, <span class="no-wrap"><a href="https://www.uni-kl.de">University of Kaiserslautern</a></span>|
-
-## Part-Time Job, Internship, and Service
+## Industrial Work Experience
 
 |||
 |:---:|:---|
 |<tt>2021-*&nbsp;&nbsp;&nbsp;</tt>|Chief Research Officer (CRO), <a href="https://alphaben.app">Alphaben</a>|
-|<tt>2020-*&nbsp;&nbsp;&nbsp;</tt>|Mentor (PM), <a href="https://jr.mitou.org/">Mitou Junior</a>|
+|<tt>2019-*&nbsp;&nbsp;&nbsp;</tt>|Senior Researcher, <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a>|
+|<tt>2016-2019</tt>|Researcher, <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a>|
+
+## Academic Work Experience
+
+|||
+|:---:|:---|
 |<tt>2016-*&nbsp;&nbsp;&nbsp;</tt>|Visiting Researcher, <span class="no-wrap"><a href="http://www.osakafu-u.ac.jp/english/">Osaka Prefecture University</a></span>|
 |<tt>2014-*&nbsp;&nbsp;&nbsp;</tt>|Researcher, <span class="no-wrap"><a href="http://www.kmd.keio.ac.jp/">Keio Media Design Research Institute</a></span>|
+|<tt>2016-2019</tt>|Research Associate, <span class="no-wrap"><a href="https://www.uni-kl.de">University of Kaiserslautern</a></span>|
+
+## Internship and Service
+
+|||
+|:---:|:---|
+|<tt>2020-*&nbsp;&nbsp;&nbsp;</tt>|Mentor (PM), <a href="https://jr.mitou.org/">Mitou Junior</a>|
 |<tt>2013-2015</tt>|Engineering mentor, <span class="no-wrap"><a href="http://life-is-tech.com/">Life is Tech, Inc.</a></span>|
 |<tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015</tt>|Engineering Internship, <span class="no-wrap"><a href="http://www.recruit.jp/">Recruit Holdings Co.</a></span>|
 |<tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014</tt>|Engineering Internship, <span class="no-wrap"><a href="http://www.livesense.co.jp/">Livesense Inc.</a></span>|
