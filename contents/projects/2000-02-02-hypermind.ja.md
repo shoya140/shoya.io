@@ -11,4 +11,4 @@ project: research
 
 ## 関連する対外発表
 
-@[references](ishimaru2018augmented ishimaru2018hypermind ishimaru2017cognitive ishimaru2016towards)
+@[references](vadiraja2021text ishimaru2018augmented ishimaru2018hypermind ishimaru2017cognitive ishimaru2016towards)

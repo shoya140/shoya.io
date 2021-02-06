@@ -11,4 +11,4 @@ Although every learner has different preferences in reading, textbooks have trad
 
 ## Related Publications
 
-@[references](ishimaru2018augmented ishimaru2018hypermind ishimaru2017cognitive ishimaru2016towards)
+@[references](vadiraja2021text ishimaru2018augmented ishimaru2018hypermind ishimaru2017cognitive ishimaru2016towards)

@@ -11,4 +11,4 @@ Mental illness, especially depression is one of the most pressing concerns all o
 
 ## Related Publications
 
-@[references](ishimaru2015quantifying)
+@[references](garg2021stress ishimaru2015quantifying)

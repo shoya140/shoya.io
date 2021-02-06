@@ -13,4 +13,4 @@ project: private
 
 ## 関連する対外発表
 
-@[references](ishimaru2015quantifying)
+@[references](garg2021stress ishimaru2015quantifying)
