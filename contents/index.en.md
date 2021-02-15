@@ -127,12 +127,12 @@ eyecatch: "/img/icon_portrait.jpg"
 |<tt>2012.06</tt>|Final stage of <a href="https://www.cyberagent.co.jp/list/mockplan.html">Mock App Planning Contest, CyberAgent Inc</a>|
 |<tt>2012.01</tt>|Champion at <a href="http://tech-tokyo.com/?p=679">Tech-Tokyo, Application Development Contest for Students</a>|
 
-## Contact
+<h2 id="contact">Contact</h2>
 
 |||
 |:---:|:---|
-|E-mail|*firstname*.*lastname*@gmail.com|
-|GitHub|[@shoya140](https://github.com/shoya140/)|
-|Twitter|[@shoya140](https://twitter.com/shoya140)|
+|<tt>Private&nbsp;</tt>|*firstname*.*lastname*@gmail.com|
+|<tt>DFKI&nbsp;&nbsp;&nbsp;&nbsp;</tt>|*firstname*.*lastname*@dfki.de|
+|<tt>Alphaben</tt>|*firstname*@alphaben.app|
 
 [Download CV](/cv.pdf)

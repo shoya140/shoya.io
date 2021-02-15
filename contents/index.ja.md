@@ -131,8 +131,8 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
-|E-mail|*firstname*.*lastname*@gmail.com|
-|GitHub|[@shoya140](https://github.com/shoya140/)|
-|Twitter|[@shoya140](https://twitter.com/shoya140)|
+|<tt>Private&nbsp;</tt>|*firstname*.*lastname*@gmail.com|
+|<tt>DFKI&nbsp;&nbsp;&nbsp;&nbsp;</tt>|*firstname*.*lastname*@dfki.de|
+|<tt>Alphaben</tt>|*firstname*@alphaben.app|
 
 [CVをダウンロードする](/cv.pdf)
