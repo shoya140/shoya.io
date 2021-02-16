@@ -14,6 +14,10 @@ title: "Publications"
 
 @[references](garg2021stress vadiraja2021text ishimaru2020gaze santhosh2020generating maruichi2019self ishimaru2019electrooculography ishimaru2018hypermind jacob2018interest herurkar2018combining ohbayashi2018investigating santhosh2018estimating grossmann2018iql jacob2018gaze brishtel2018assessing ishimaru2017cognitive ishimaru2017towards kise2017quantified ishimaru2017arfled hoffmann2016stres ishimaru2016cognitive ishimaru2016towards ishimaru2016wordometer ishimaru2016reading rigaud2016semi ishimaru2015quantifying kunze2015eye kunze2015quantifying kunze2015smart tanaka2015nekoze ishimaru2015smart ishimaru2014brain ishimaru2014smarter ishimaru2014logging ishimaru2014blink ishimaru2013eyetracking kunze2013reading kunze2013eeg)
 
+## Miscellaneous (without peer review)
+
+@[references](ishimaru2021confidence)
+
 ## Domestic Conference Papers
 
 1. 渡邉 洸, <u>石丸 翔也</u> and 荒川 豊. <b>インタラクティブなデジタル教科書の作成用ツールHyperMind Builderの開発および評価</b>, インタラクション2019, pp. 778-783, 2019.
