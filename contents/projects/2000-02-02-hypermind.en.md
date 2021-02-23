@@ -9,7 +9,7 @@ project: research
 
 Although every learner has different preferences in reading, textbooks have traditionally been static. Reading experiences should become more immersive and interesting if textbooks behave differently for each learner. We propose such vivid interactions optimized for the context of learning by combining a digital document and affective state recognition (e.g. interest, mental workload, and self-confidence) using smart sensors.
 
-<a href="http://ahs2021demo.shoya.io/" id="ahs2021demo">Online Demo at Augmented Humans 2021</a>
+<a href="https://vadiraja2021text.vercel.app/" id="ahs2021demo">Online Demo at Augmented Humans 2021</a>
 
 ## Related Publications
 
