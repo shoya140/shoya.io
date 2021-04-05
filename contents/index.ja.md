@@ -76,6 +76,7 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
+|<tt>2021.SS</tt>|Collaborative Intelligence (Dengel教授との共同講義)|
 |<tt>2020.SS</tt>|Collaborative Intelligence (Dengel教授との共同講義)|
 |<tt>2019.SS</tt>|Collaborative Intelligence (Dengel教授との共同講義)|
 

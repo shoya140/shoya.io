@@ -76,6 +76,7 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
+|<tt>2021.SS</tt>|Collaborative Intelligence (Co-lecturing with Prof. Dengel)|
 |<tt>2020.SS</tt>|Collaborative Intelligence (Co-lecturing with Prof. Dengel)|
 |<tt>2019.SS</tt>|Collaborative Intelligence (Co-lecturing with Prof. Dengel)|
 
