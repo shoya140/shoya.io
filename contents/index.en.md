@@ -1,13 +1,13 @@
 ---
 title: "Shoya Ishimaru"
-keywords: ["Shoya Ishimaru", "Ishimaru Shoya", "石丸 翔也", "石丸翔也", "Shoya", "Ishimaru", "shoya140", "DFKI", "Kaiserslautern", "Portfolio", "ポートフォリオ"]
-description: "Dr. Shoya Ishimaru is a Senior Researcher at the German Research Center for Artificial Intelligence (DFKI) and the Chief Research Officer of Alphaben. His research interest is to invent new technologies augmenting human intellect."
+keywords: ["Shoya Ishimaru", "Ishimaru Shoya", "石丸 翔也", "石丸翔也", "Shoya", "Ishimaru", "shoya140", "Alphaben", "DFKI", "ドイツ人工知能研究センター", "Kaiserslautern", "Portfolio", "ポートフォリオ"]
+description: "Dr. Shoya Ishimaru is a Senior Researcher at the German Research Center for Artificial Intelligence (DFKI) and a Co-Founder CRO of Alphaben. His research interest is to invent new technologies augmenting human intellect."
 eyecatch: "/img/icon_portrait.jpg"
 ---
 
 <div class="bio">
     <img src="/img/icon_portrait.jpg" class="image-portrait" width="130px" height="130px" alt="Shoya Ishimaru">
-    <p>Dr. Shoya Ishimaru is a Senior Researcher at the <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a> and the Chief Research Officer of <a href="https://alphaben.app">Alphaben</a>. His research interest is to invent new technologies augmenting human intellect [<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Google Scholar</a>]. He received his PhD in Engineering at the <a href="https://www.uni-kl.de/">University of Kaiserslautern</a> and the title of <a href="https://www.meti.go.jp/english/press/2016/0602_01.html">MITOU Super Creator</a> by Ministry of Economy, Trade, and Industry in Japan.</p>
+    <p>Dr. Shoya Ishimaru is a Senior Researcher at the <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a> and a Co-Founder CRO of <a href="https://alphaben.app">Alphaben</a>. His research interest is to invent new technologies augmenting human intellect [<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Google Scholar</a>]. He received his PhD in Engineering at the <a href="https://www.uni-kl.de/">University of Kaiserslautern</a> and the title of <a href="https://www.meti.go.jp/english/press/2016/0602_01.html">MITOU Super Creator</a> by Ministry of Economy, Trade, and Industry in Japan.</p>
 </div>
 
 ![ ](/img/topics.png)
