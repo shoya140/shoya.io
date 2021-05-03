@@ -61,6 +61,14 @@ $quote-border-color: rgba(var(--brand), 0.6);
   }
 }
 
+* {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
 html {
   font-size: 16px;
   @include media-query($on-palm) {
@@ -158,6 +166,7 @@ body {
   font-weight: 400;
   color: $text-color;
   background-color: $surface-color;
+  overflow-y: scroll;
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   hyphens: auto;
@@ -538,8 +547,8 @@ figure {
   margin-bottom: 0;
   line-height: $large-line-height;
   text-align: center;
-  overflow-x: scroll;
   white-space: nowrap;
+  overflow-x: scroll;
 
   @include media-query($on-palm) {
     margin-left: calc(-1 * #{$wrapper-padding});
