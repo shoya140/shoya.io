@@ -85,6 +85,7 @@ eyecatch: "/img/icon_portrait.jpg"
 |||
 |:---:|:---|
 |<tt>2020-2023</tt>|Key Researcher, <a href="https://idw-online.de/en/news756007">DFG ANR JST International Call on Artificial Intelligence</a>|
+|<tt>2020-2022</tt>|Co-Investigator, <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20KK0235/">JSPS Fostering Joint International Research \(B\)</a>|
 |<tt>2020-2022</tt>|Co-Investigator, <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H04213/">JSPS Grant-in-Aid for Scientific Research \(B\)</a>|
 |<tt>2017-2019</tt>|Co-Investigator, <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17K00276/">JSPS Grant-in-Aid for Scientific Research \(C\)</a>|
 |<tt>2017-2019</tt>|Representative, <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17K12728/">JSPS Grant-in-Aid for Young Scientists (B)</a>|
@@ -100,7 +101,7 @@ eyecatch: "/img/icon_portrait.jpg"
 |<tt>2019.03</tt>|Program Committee for <a href="https://perpersuasion.ubi-lab.com/?fbclid=IwAR1QiuoopBcAkAVmGFygEcY4mYqrO-KjhzXZF664nhMdBb1uK1o5tFp7E4I">PerPersuasion 2019</a>|
 |<tt>2018.10</tt>|Program Committee for <a href="http://www.dfki.uni-kl.de/~kieni/read2018/">READ 2018</a>|
 |<tt>2015.03</tt>|Co-Organizer for <a href="http://recruit-jinji.jp/adf_fes2015/">Application Developer Festival 2015</a>|
-|<tt>Reviewing</tt>|IUI '21, AHs '21, CHI '21 '20, IMWUT '20 Feb. '19 Aug. '18 Nov., ISWC '20, MobileHCI '20, PerCom-PerPersuasion '19, IJDAR '18, READ '18, ICDAR-HDI '17, Mathematics|
+|<tt>Reviewing</tt>|IMWUT '21 '20 '19 '18, IUI '21, AHs '21, CHI '21 '20, ISWC '20, MobileHCI '20, PerCom-PerPersuasion '19, IJDAR '18, READ '18, ICDAR-HDI '17, Mathematics, IPSJ|
 
 ## Awards and Honorable Activities
 
