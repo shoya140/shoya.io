@@ -10,18 +10,19 @@
   },
   "dependencies": {
     "bibtex-parse": "^2.1.0",
-    "date-fns": "^2.16.1",
-    "gray-matter": "^4.0.2",
-    "highlight.js": "^10.5.0",
-    "markdown-it": "^12.0.4",
+    "date-fns": "^2.23.0",
+    "gray-matter": "^4.0.3",
+    "highlight.js": "^11.2.0",
+    "markdown-it": "^12.2.0",
     "markdown-it-custom-block": "^0.1.2",
-    "mikanjs": "^1.0.11",
-    "next": "11.0.1",
-    "next-remote-watch": "^0.3.0",
-    "nextjs-progressbar": "^0.0.7",
+    "mikanjs": "^1.0.12",
+    "next": "11.1.0",
+    "next-remote-watch": "^1.0.0",
+    "nextjs-progressbar": "^0.0.11",
+    "prop-types": "^15.7.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "sass": "^1.35.2"
+    "sass": "^1.37.5"
   },
   "devDependencies": {
     "prettier": "2.3.2"
