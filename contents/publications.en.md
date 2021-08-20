@@ -4,7 +4,7 @@ title: "Publications"
 
 ## Journal Papers
 
-@[references](brishtel2020mind amft2015making)
+@[references](watanabe2021discaas brishtel2020mind amft2015making)
 
 ## Book Chapter
 

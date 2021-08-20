@@ -4,7 +4,7 @@ title: "論文"
 
 ## 論文誌
 
-@[references](brishtel2020mind amft2015making)
+@[references](watanabe2021discaas brishtel2020mind amft2015making)
 
 ## 書籍 (分担著)
 
