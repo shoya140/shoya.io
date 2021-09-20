@@ -15,6 +15,7 @@
     "highlight.js": "^11.2.0",
     "markdown-it": "^12.2.0",
     "markdown-it-custom-block": "^0.1.2",
+    "markdown-it-footnote": "^3.0.3",
     "mikanjs": "^1.0.12",
     "next": "11.1.0",
     "next-remote-watch": "^1.0.0",

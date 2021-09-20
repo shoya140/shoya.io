@@ -7,10 +7,19 @@ eyecatch: "/img/icon_portrait.jpg"
 
 <div class="bio">
     <img src="/img/icon_portrait.jpg" class="image-portrait" width="130px" height="130px" alt="Shoya Ishimaru">
-    <p>Dr. Shoya Ishimaru is a Senior Researcher at the <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a> and a Co-Founder CRO of <a href="https://alphaben.app">Alphaben</a>. His research interest is to invent new technologies augmenting human intellect [<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Scholar</a>]. He received his PhD in Engineering at the <a href="https://www.uni-kl.de/">University of Kaiserslautern</a> and the title of <a href="https://www.meti.go.jp/english/press/2016/0602_01.html">MITOU Super Creator</a> by Ministry of Economy, Trade, and Industry in Japan.</p>
+    <p>Shoya Ishimaru is a Junior Professor in Computer Science at the <a href="https://www.uni-kl.de/">University of Kaiserslautern</a>, a Senior Researcher at the <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a> and a Co-Founder CRO of <a href="https://alphaben.app">Alphaben</a>. His research interest is to invent new technologies augmenting human intellect [<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Google Scholar</a>]. He received his PhD in Engineering at the <a href="https://www.uni-kl.de/">University of Kaiserslautern</a> and the title of <a href="https://www.meti.go.jp/english/press/2016/0602_01.html">MITOU Super Creator</a> by the Ministry of Economy, Trade, and Industry in Japan.</p>
 </div>
 
 ![ ](/img/topics.png)
+
+## Academic Work Experience
+
+|||
+|:---:|:---|
+|<tt>2021-*&nbsp;&nbsp;&nbsp;</tt>|Junior Professor, <span class="no-wrap"><a href="https://www.uni-kl.de">University of Kaiserslautern</a></span>|
+|<tt>2016-*&nbsp;&nbsp;&nbsp;</tt>|Visiting Researcher, <span class="no-wrap"><a href="http://www.osakafu-u.ac.jp/english/">Osaka Prefecture University</a></span>|
+|<tt>2014-*&nbsp;&nbsp;&nbsp;</tt>|Researcher, <span class="no-wrap"><a href="http://www.kmd.keio.ac.jp/">Keio Media Design Research Institute</a></span>|
+|<tt>2016-2019</tt>|Research Associate, <span class="no-wrap"><a href="https://www.uni-kl.de">University of Kaiserslautern</a></span>|
 
 ## Industrial Work Experience
 
@@ -19,14 +28,6 @@ eyecatch: "/img/icon_portrait.jpg"
 |<tt>2021-*&nbsp;&nbsp;&nbsp;</tt>|Chief Research Officer (CRO), <a href="https://alphaben.app">Alphaben</a>|
 |<tt>2019-*&nbsp;&nbsp;&nbsp;</tt>|Senior Researcher, <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a>|
 |<tt>2016-2019</tt>|Researcher, <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a>|
-
-## Academic Work Experience
-
-|||
-|:---:|:---|
-|<tt>2016-*&nbsp;&nbsp;&nbsp;</tt>|Visiting Researcher, <span class="no-wrap"><a href="http://www.osakafu-u.ac.jp/english/">Osaka Prefecture University</a></span>|
-|<tt>2014-*&nbsp;&nbsp;&nbsp;</tt>|Researcher, <span class="no-wrap"><a href="http://www.kmd.keio.ac.jp/">Keio Media Design Research Institute</a></span>|
-|<tt>2016-2019</tt>|Research Associate, <span class="no-wrap"><a href="https://www.uni-kl.de">University of Kaiserslautern</a></span>|
 
 ## Internship and Service
 

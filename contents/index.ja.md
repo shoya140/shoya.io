@@ -1,16 +1,25 @@
 ---
 title: "石丸 翔也 (Shoya Ishimaru)"
 keywords: ["Shoya Ishimaru", "Ishimaru Shoya", "石丸 翔也", "石丸翔也", "Shoya", "Ishimaru", "shoya140", "Alphaben", "DFKI", "ドイツ人工知能研究センター", "Kaiserslautern", "Portfolio", "ポートフォリオ"]
-description: "石丸翔也は工学博士、Alphaben Co-Founder CRO、ドイツ人工知能研究センター (DFKI) シニアリサーチャー、IPA未踏スーパークリエータ、未踏ジュニアメンター。眼鏡型ウェアラブルコンピューティングや学習支援を中心に、人の知性 (物事を学び・考え・伝える能力) を拡張する技術の研究をしています。"
+description: "石丸翔也は工学博士、カイザースラウテルン工科大学 准教授、ドイツ人工知能研究センター (DFKI) シニアリサーチャー、Alphaben Co-Founder CRO、IPA未踏スーパークリエータ、未踏ジュニア メンター。眼鏡型ウェアラブルコンピューティングや学習支援技術を中心に、人の知性 (物事を学び・考え・伝える能力) を拡張する技術の研究をしています。"
 eyecatch: "/img/icon_portrait.jpg"
 ---
 
 <div class="bio">
     <img src="/img/icon_portrait.jpg" class="image-portrait" width="130px" height="130px" alt="石丸 翔也">
-    <p>工学博士 / Alphaben Co-Founder CRO / ドイツ人工知能研究センター (DFKI) シニアリサーチャー / IPA未踏スーパークリエータ / 未踏ジュニア メンター。眼鏡型ウェアラブルコンピューティングや学習支援を中心に、人の知性 (物事を学び・考え・伝える能力) を拡張する技術の研究をしています。[<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Scholar</a>]</p>
+    <p>工学博士 / カイザースラウテルン工科大学 准教授 / ドイツ人工知能研究センター (DFKI) シニアリサーチャー / Alphaben Co-Founder CRO / IPA未踏スーパークリエータ / 未踏ジュニア メンター。眼鏡型ウェアラブルコンピューティングや学習支援技術を中心に、人の知性 (物事を学び・考え・伝える能力) を拡張する技術の研究をしています。[<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Google Scholar</a>]</p>
 </div>
 
 ![ ](/img/topics.png)
+
+## 職歴 (大学)
+
+|||
+|:---:|:---|
+|<tt>2021-現在</tt>|<a href="https://www.uni-kl.de">カイザースラウテルン工科大学</a> <span class="no-wrap">准教授 (Junior Professor)</span>|
+|<tt>2016-現在</tt>|<a href="http://www.osakafu-u.ac.jp/">大阪府立大学</a> <span class="no-wrap">客員研究員</span>|
+|<tt>2014-現在</tt>|<a href="http://www.kmd.keio.ac.jp/jp/">慶應義塾大学KMD研究所</a> <span class="no-wrap">研究員</span>|
+|<tt>2016-2019</tt>|<a href="https://www.uni-kl.de">カイザースラウテルン工科大学</a> <span class="no-wrap">リサーチアソシエイト</span>|
 
 ## 職歴 (企業)
 
@@ -19,14 +28,6 @@ eyecatch: "/img/icon_portrait.jpg"
 |<tt>2021-現在</tt>|<a href="https://alphaben.app">Alphaben</a> 最高研究責任者 (CRO)|
 |<tt>2019-現在</tt>|<a href="https://www.dfki.de/web/">ドイツ人工知能研究センター (DFKI)</a> <span class="no-wrap">シニアリサーチャー</span>|
 |<tt>2016-2019</tt>|<a href="https://www.dfki.de/web/">ドイツ人工知能研究センター (DFKI)</a> <span class="no-wrap">リサーチャー</span>|
-
-## 職歴 (大学)
-
-|||
-|:---:|:---|
-|<tt>2016-現在</tt>|<a href="http://www.osakafu-u.ac.jp/">大阪府立大学</a> <span class="no-wrap">客員研究員</span>|
-|<tt>2014-現在</tt>|<a href="http://www.kmd.keio.ac.jp/jp/">慶應義塾大学KMD研究所</a> <span class="no-wrap">研究員</span>|
-|<tt>2016-2019</tt>|<a href="https://www.uni-kl.de">カイザースラウテルン工科大学</a> <span class="no-wrap">リサーチアソシエイト</span>|
 
 ## インターン・ボランティア
 

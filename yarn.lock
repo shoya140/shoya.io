@@ -1298,6 +1298,11 @@ markdown-it-custom-block@^0.1.2:
   resolved "https://registry.yarnpkg.com/markdown-it-custom-block/-/markdown-it-custom-block-0.1.2.tgz#00014ec54c272cd4259653dcc8b56ed4edca8e03"
   integrity sha512-MfsADPwZTWikDW7SY81iNrd7Sm5u9si2Y2lIpKfz9GpfRV2uiNh+/YIhb0zApqmvR0nC/c8MpmsdRTzzs8miMA==
 
+markdown-it-footnote@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/markdown-it-footnote/-/markdown-it-footnote-3.0.3.tgz#e0e4c0d67390a4c5f0c75f73be605c7c190ca4d8"
+  integrity sha512-YZMSuCGVZAjzKMn+xqIco9d1cLGxbELHZ9do/TSYVzraooV8ypsppKNmUJ0fVH5ljkCInQAtFpm8Rb3eXSrt5w==
+
 markdown-it@^12.2.0:
   version "12.2.0"
   resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-12.2.0.tgz#091f720fd5db206f80de7a8d1f1a7035fd0d38db"
