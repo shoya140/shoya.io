@@ -1,5 +1,5 @@
 ---
-title: "Shoya Ishimaru"
+title: "Jun.-Prof. Dr. Shoya Ishimaru"
 keywords: ["Shoya Ishimaru", "Ishimaru Shoya", "石丸 翔也", "石丸翔也", "Shoya", "Ishimaru", "shoya140", "Alphaben", "DFKI", "ドイツ人工知能研究センター", "Kaiserslautern", "Portfolio", "ポートフォリオ"]
 description: "Dr. Shoya Ishimaru is a Senior Researcher at the German Research Center for Artificial Intelligence (DFKI) and a Co-Founder CRO of Alphaben. His research interest is to invent new technologies augmenting human intellect."
 eyecatch: "/img/icon_portrait.jpg"
@@ -29,7 +29,7 @@ eyecatch: "/img/icon_portrait.jpg"
 |<tt>2019-*&nbsp;&nbsp;&nbsp;</tt>|Senior Researcher, <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a>|
 |<tt>2016-2019</tt>|Researcher, <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a>|
 
-## Internship and Service
+## Internship, Part-Time Job, and Service
 
 |||
 |:---:|:---|
@@ -102,7 +102,7 @@ eyecatch: "/img/icon_portrait.jpg"
 |<tt>2019.03</tt>|Program Committee for <a href="https://perpersuasion.ubi-lab.com/?fbclid=IwAR1QiuoopBcAkAVmGFygEcY4mYqrO-KjhzXZF664nhMdBb1uK1o5tFp7E4I">PerPersuasion 2019</a>|
 |<tt>2018.10</tt>|Program Committee for <a href="http://www.dfki.uni-kl.de/~kieni/read2018/">READ 2018</a>|
 |<tt>2015.03</tt>|Co-Organizer for <a href="http://recruit-jinji.jp/adf_fes2015/">Application Developer Festival 2015</a>|
-|<tt>Reviewing</tt>|IMWUT '21 '20 '19 '18, IUI '21, AHs '21, CHI '21 '20, ISWC '20, MobileHCI '20, PerCom-PerPersuasion '19, IJDAR '18, READ '18, ICDAR-HDI '17, Mathematics, IPSJ|
+|<tt>Reviewing</tt>|ACM IMWUT, IEEE Access, IJDAR, MDPI Mathematics, IPSJ, CHI '22 '21 '20, IUI '21, AHs '21, ISWC '20, MobileHCI '20, PerCom-PerPersuasion '19, READ '18, ICDAR-HDI '17|
 
 ## Awards and Honorable Activities
 
@@ -134,8 +134,7 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
-|<tt>Private&nbsp;</tt>|*firstname*.*lastname*@gmail.com|
-|<tt>DFKI&nbsp;&nbsp;&nbsp;&nbsp;</tt>|*firstname*.*lastname*@dfki.de|
-|<tt>Alphaben</tt>|*firstname*@alphaben.app|
+|<tt>&nbsp;Private</tt>|*firstname*.*lastname*@gmail.com|
+|<tt>Official</tt>|*firstname*.*lastname*@dfki.de|
 
 [Download CV](/cv.pdf)

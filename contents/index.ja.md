@@ -29,7 +29,7 @@ eyecatch: "/img/icon_portrait.jpg"
 |<tt>2019-現在</tt>|<a href="https://www.dfki.de/web/">ドイツ人工知能研究センター (DFKI)</a> <span class="no-wrap">シニアリサーチャー</span>|
 |<tt>2016-2019</tt>|<a href="https://www.dfki.de/web/">ドイツ人工知能研究センター (DFKI)</a> <span class="no-wrap">リサーチャー</span>|
 
-## インターン・ボランティア
+## インターン・アルバイト・サービス
 
 |||
 |:---:|:---|
@@ -102,7 +102,7 @@ eyecatch: "/img/icon_portrait.jpg"
 |<tt>2019.03</tt>|<a href="https://perpersuasion.ubi-lab.com/?fbclid=IwAR1QiuoopBcAkAVmGFygEcY4mYqrO-KjhzXZF664nhMdBb1uK1o5tFp7E4I">PerPersuasion 2019</a> Program Committee|
 |<tt>2018.10</tt>|<a href="http://www.dfki.uni-kl.de/~kieni/read2018/">READ 2018</a> Program Committee|
 |<tt>2015.03</tt>|<a href="http://recruit-jinji.jp/adf_fes2015/">Application Developer Festival 2015</a> Co-Organizer|
-|<tt>査読</tt>|IMWUT '21 '20 '19 '18, IUI '21, AHs '21, CHI '21 '20, ISWC '20, MobileHCI '20, PerCom-PerPersuasion '19, IJDAR '18, READ '18, ICDAR-HDI '17, Mathematics, IPSJ|
+|<tt>査読</tt>|ACM IMWUT, IEEE Access, IJDAR, MDPI Mathematics, IPSJ, CHI '22 '21 '20, IUI '21, AHs '21, ISWC '20, MobileHCI '20, PerCom-PerPersuasion '19, READ '18, ICDAR-HDI '17|
 
 ## 受賞・特筆的活動
 
@@ -134,8 +134,7 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
-|<tt>Private&nbsp;</tt>|*firstname*.*lastname*@gmail.com|
-|<tt>DFKI&nbsp;&nbsp;&nbsp;&nbsp;</tt>|*firstname*.*lastname*@dfki.de|
-|<tt>Alphaben</tt>|*firstname*@alphaben.app|
+|<tt>&nbsp;Private</tt>|*firstname*.*lastname*@gmail.com|
+|<tt>Official</tt>|*firstname*.*lastname*@dfki.de|
 
 [CVをダウンロードする](/cv.pdf)
