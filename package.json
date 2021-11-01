@@ -10,22 +10,22 @@
   },
   "dependencies": {
     "bibtex-parse": "^2.1.0",
-    "date-fns": "^2.23.0",
+    "date-fns": "^2.25.0",
     "gray-matter": "^4.0.3",
-    "highlight.js": "^11.2.0",
+    "highlight.js": "^11.3.1",
     "markdown-it": "^12.2.0",
     "markdown-it-custom-block": "^0.1.2",
     "markdown-it-footnote": "^3.0.3",
     "mikanjs": "^1.0.12",
-    "next": "11.1.0",
+    "next": "12.0.2",
     "next-remote-watch": "^1.0.0",
-    "nextjs-progressbar": "^0.0.11",
+    "nextjs-progressbar": "^0.0.13",
     "prop-types": "^15.7.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "sass": "^1.37.5"
+    "sass": "^1.43.4"
   },
   "devDependencies": {
-    "prettier": "2.3.2"
+    "prettier": "2.4.1"
   }
 }
