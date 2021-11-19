@@ -58,6 +58,8 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
+|<tt>2021</tt>|Prerna Garg, "A Survey and Evaluation of Sensor Based Multimodal Physiological Datasets for Stress Detection"|
+|<tt>2021</tt>|Pramod Vadiraja, "Leveraging Machine Learning to Improve Comprehension by Content Personalization Based on the Cognitive State of the Reader"|
 |<tt>2020</tt>|Arka Sinha, "Object Recognition on Learning Materials with Deep Neural Networks for Document Understanding"|
 |<tt>2020</tt>|Ann-Sophie Steinert, "Preference-Aware Learning Material with Document Layout Optimization"|
 |<tt>2020</tt>|Emil Baitemirov, "Automated Detection of Mind Wandering while Reading and Listening Music"|
