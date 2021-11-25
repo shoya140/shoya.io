@@ -137,6 +137,6 @@ eyecatch: "/img/icon_portrait.jpg"
 |||
 |:---:|:---|
 |<tt>&nbsp;Private</tt>|*firstname*.*lastname*@gmail.com|
-|<tt>Official</tt>|*firstname*.*lastname*@dfki.de|
+|<tt>Official</tt>|*lastname*@cs.uni-kl.de|
 
 [Download CV](/cv.pdf)
