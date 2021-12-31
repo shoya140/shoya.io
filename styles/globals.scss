@@ -271,12 +271,6 @@ td:nth-child(2) {
   }
 }
 
-img {
-  max-height: $on-palm;
-  max-width: 100%;
-  display: inline-block;
-}
-
 figure {
   text-align: center;
   margin-left: 0;
@@ -296,6 +290,22 @@ figure {
   margin-left: auto;
   padding-left: $wrapper-padding;
   padding-right: $wrapper-padding;
+
+  img {
+    max-height: $on-palm;
+    max-width: 100%;
+    display: inline-block;
+  }
+}
+
+.wide-wrapper {
+  position: relative;
+  max-width: $content-width;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: $wrapper-padding;
+  padding-right: $wrapper-padding;
+  max-width: calc(#{$content-width} + 290px);
 }
 
 .site-header {
@@ -762,4 +772,29 @@ li.reference {
 
 .no-break {
   display: inline-block;
+}
+
+.photo-thumbnail-container {
+  max-width: calc(100% + 2 * #{$wrapper-padding} - 4px);
+  margin-left: calc(-1 * #{$wrapper-padding} + 2px);
+  margin-right: calc(-1 * #{$wrapper-padding} + 2px);
+}
+
+.photo-thumbnail {
+  display: inline-block;
+  width: calc((100% - 4 * 4px) / 4);
+  margin: 2px;
+  vertical-align: middle;
+  line-height: 0;
+
+  img {
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    cursor: pointer;
+    width: 100%;
+  }
+
+  @include media-query($content-width) {
+    width: calc((100% - 3 * 4px) / 3);
+  }
 }

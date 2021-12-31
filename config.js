@@ -4,6 +4,7 @@ module.exports = {
     { name: '/projects', display: 'Projects' },
     { name: '/publications', display: 'Publications' },
     { name: '/software', display: 'Software' },
+    { name: '/photos', display: 'Photos' },
     { name: '/posts', display: 'Blog' },
   ],
   softwareCategories: [
@@ -24,6 +25,7 @@ module.exports = {
     recentPosts: { en: '日本語の最新の記事', ja: 'Recent posts in English' },
     projects: { en: 'Projects', ja: 'プロジェクト' },
     software: { en: 'Software', ja: 'ソフトウェア' },
+    photos: { en: 'Photos', ja: '写真' },
     posts: { en: 'Blog Posts', ja: 'ブログ' },
     pageNotFound: {
       en: '404 Page not found',

@@ -14,6 +14,7 @@ export default function Layout({
   description,
   keywords,
   eyecatch,
+  wideWrapper,
 }) {
   const router = useRouter()
   const locale = router.locale
@@ -134,8 +135,10 @@ export default function Layout({
         </div>
       </div>
 
-      <div className={'content wrapper ' + (locale === 'ja' ? 'lang-ja' : '')}>
-        {children}
+      <div className={'content ' + (locale === 'ja' ? 'lang-ja' : '')}>
+        <div className={wideWrapper ? 'wide-wrapper' : 'wrapper'}>
+          {children}
+        </div>
       </div>
 
       <div className="site-footer">
