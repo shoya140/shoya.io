@@ -125,8 +125,10 @@ export default function Layout({
       <div className="title">
         <div className="wrapper">
           <h1>
-            {Mikan.split(title).map((text) => (
-              <span className="no-break">{text.replace(/\s/g, '\u00A0')}</span>
+            {Mikan.split(title).map((text, index) => (
+              <span className="no-break" key={`title-${index}`}>
+                {text.replace(/\s/g, '\u00A0')}
+              </span>
             ))}
           </h1>
           <p className="post-date">
