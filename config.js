@@ -16,6 +16,7 @@ module.exports = {
   ],
   photoCategories: [
     { name: 'antarctica', display: { en: 'Antarctica', ja: '南極' } },
+    { name: 'argentina', display: { en: 'Argentina', ja: 'アルゼンチン' } },
     { name: 'iceland', display: { en: 'Iceland', ja: 'アイスランド' } },
     { name: 'germany', display: { en: 'Germany', ja: 'ドイツ' } },
     { name: 'japan', display: { en: 'Japan', ja: '日本' } },
