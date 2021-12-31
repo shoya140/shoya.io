@@ -24,6 +24,7 @@ export default function Photos() {
               thumbnail={`${photo.url}/thumb/500`}
               width={1000 * photo.aspect}
               height={1000}
+              title={photo.title}
             >
               {({ ref, open }) => (
                 <div className="photo-thumbnail">
