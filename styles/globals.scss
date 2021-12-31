@@ -283,6 +283,11 @@ figure {
   }
 }
 
+img {
+  max-width: 100%;
+  display: inline-block;
+}
+
 .wrapper {
   position: relative;
   max-width: $content-width;
@@ -290,12 +295,6 @@ figure {
   margin-left: auto;
   padding-left: $wrapper-padding;
   padding-right: $wrapper-padding;
-
-  img {
-    max-height: $on-palm;
-    max-width: 100%;
-    display: inline-block;
-  }
 }
 
 .wide-wrapper {

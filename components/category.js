@@ -17,6 +17,19 @@ export default function Category({ subDirectory, categories, posts }) {
           {locale === 'en' ? 'All' : 'すべて'} ({posts.length})
         </a>
       </Link>
+      {subDirectory === 'photos' && (
+        <Link href={`/${subDirectory}/?category=favorite`}>
+          <a
+            className={
+              'category-container ' +
+              (RegExp('favorite').test(router.asPath) ? 'category-active' : '')
+            }
+          >
+            {locale === 'en' ? 'Favorite' : 'お気に入り'} (
+            {posts.filter(({ favorite }) => favorite).length})
+          </a>
+        </Link>
+      )}
       {categories.map(({ name, display }) => (
         <Link href={`/${subDirectory}?category=${name}`} key={name}>
           <a
@@ -27,11 +40,13 @@ export default function Category({ subDirectory, categories, posts }) {
                 : '')
             }
           >
-            <img
-              src={`/img/icon/${name}.svg`}
-              width="16px"
-              className="category-img"
-            />
+            {subDirectory !== 'photos' && (
+              <img
+                src={`/img/icon/${name}.svg`}
+                width="16px"
+                className="category-img"
+              />
+            )}
             {display[locale]} (
             {posts.filter(({ category }) => category === name).length})
           </a>

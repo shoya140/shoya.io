@@ -14,6 +14,16 @@ module.exports = {
     { name: 'web', display: { en: 'Web', ja: 'Web' } },
     { name: 'misc', display: { en: 'Misc', ja: 'その他' } },
   ],
+  photoCategories: [
+    { name: 'antarctica', display: { en: 'Antarctica', ja: '南極' } },
+    { name: 'iceland', display: { en: 'Iceland', ja: 'アイスランド' } },
+    { name: 'germany', display: { en: 'Germany', ja: 'ドイツ' } },
+    { name: 'japan', display: { en: 'Japan', ja: '日本' } },
+    { name: 'us', display: { en: 'US', ja: 'アメリカ' } },
+    { name: 'uk', display: { en: 'UK', ja: 'イギリス' } },
+    { name: 'italy', display: { en: 'Italy', ja: 'イタリア' } },
+    { name: 'misc', display: { en: 'Misc', ja: 'その他' } },
+  ],
   postCategories: [
     { name: 'release', display: { en: 'Release', ja: 'リリース' } },
     { name: 'research', display: { en: 'Research', ja: '研究' } },
