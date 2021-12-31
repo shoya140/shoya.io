@@ -11,6 +11,8 @@ import photos from 'contents/photos'
 export default function Photos() {
   const router = useRouter()
   const locale = router.locale
+  const activeCategory = router.query.category
+
   return (
     <Layout
       title={config.translations.photos[locale]}
@@ -31,9 +33,9 @@ export default function Photos() {
           {photos
             .filter(
               ({ category, favorite }) =>
-                router.asPath === '/photos' ||
-                RegExp(category).test(router.asPath) ||
-                (RegExp('favorite').test(router.asPath) && favorite)
+                !activeCategory ||
+                activeCategory === category ||
+                (activeCategory === 'favorite' && favorite)
             )
             .map((photo) => (
               <Item

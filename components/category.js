@@ -4,14 +4,14 @@ import { useRouter } from 'next/router'
 export default function Category({ subDirectory, categories, posts }) {
   const router = useRouter()
   const locale = router.locale
+  const activeCategory = router.query.category
 
   return (
     <p className="categories">
       <Link href={`/${subDirectory}`}>
         <a
           className={
-            'category-container ' +
-            (router.asPath === `/${subDirectory}` ? 'category-active' : '')
+            'category-container ' + (!activeCategory ? 'category-active' : '')
           }
         >
           {locale === 'en' ? 'All' : 'すべて'} ({posts.length})
@@ -22,7 +22,7 @@ export default function Category({ subDirectory, categories, posts }) {
           <a
             className={
               'category-container ' +
-              (RegExp('favorite').test(router.asPath) ? 'category-active' : '')
+              (activeCategory === 'favorite' ? 'category-active' : '')
             }
           >
             {locale === 'en' ? 'Favorite' : 'お気に入り'} (
@@ -35,9 +35,7 @@ export default function Category({ subDirectory, categories, posts }) {
           <a
             className={
               'category-container ' +
-              (router.asPath === `/${subDirectory}?category=${name}`
-                ? 'category-active'
-                : '')
+              (activeCategory === name ? 'category-active' : '')
             }
           >
             {subDirectory !== 'photos' && (

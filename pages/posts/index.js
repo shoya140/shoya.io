@@ -11,7 +11,9 @@ import config from 'config'
 export default function Posts({ allPostsData, anotherLocalePostsData }) {
   const router = useRouter()
   const locale = router.locale
+  const activeCategory = router.query.category
   const anotherLocale = locale === 'en' ? 'ja' : 'en'
+
   return (
     <Layout title={config.translations.posts[locale]} isTranslated={'true'}>
       <Category
@@ -22,8 +24,7 @@ export default function Posts({ allPostsData, anotherLocalePostsData }) {
       <div>
         {allPostsData
           .filter(
-            ({ category }) =>
-              router.asPath === '/posts' || RegExp(category).test(router.asPath)
+            ({ category }) => !activeCategory || activeCategory === category
           )
           .map(({ id, date, title, category }) => (
             <LinkList
