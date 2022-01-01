@@ -196,6 +196,13 @@ module.exports = [
     favorite: true,
   },
   {
+    url: 'https://gyazo.com/4fbb2965ccc7388846db1e7d14e35d98',
+    aspect: 16 / 9,
+    title: 'Paris, France',
+    category: 'france',
+    favorite: true,
+  },
+  {
     url: 'https://gyazo.com/64919475ce7aa819442081798c5c85d3',
     aspect: 16 / 9,
     title: 'Tokyo, Japan',
@@ -371,11 +378,25 @@ module.exports = [
     favorite: false,
   },
   {
+    url: 'https://gyazo.com/ba6e535695cf18c28bfa97a5f4b7e19b',
+    aspect: 16 / 9,
+    title: 'Carcassonne, France',
+    category: 'france',
+    favorite: true,
+  },
+  {
+    url: 'https://gyazo.com/96e436f3cc48dcfaa9fcbf72e52b77d3',
+    aspect: 16 / 9,
+    title: 'La Rochelle, France',
+    category: 'france',
+    favorite: true,
+  },
+  {
     url: 'https://gyazo.com/0bdd0998fdb05321e03eba98ebd84cda',
     aspect: 16 / 9,
     title: 'Russia',
     category: 'misc',
-    favorite: false,
+    favorite: true,
   },
   {
     url: 'https://gyazo.com/fb8c8281b0a3381bd5c2944bc53bc588',
@@ -438,6 +459,13 @@ module.exports = [
     aspect: 3 / 2,
     title: 'Frankfurt, Germany',
     category: 'germany',
+    favorite: false,
+  },
+  {
+    url: 'https://gyazo.com/7c37af02912d5447fc077abae95f0148',
+    aspect: 16 / 9,
+    title: 'Mont Saint-Michel, France',
+    category: 'france',
     favorite: false,
   },
   {

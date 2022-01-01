@@ -23,6 +23,7 @@ module.exports = {
     { name: 'us', display: { en: 'US', ja: 'アメリカ' } },
     { name: 'uk', display: { en: 'UK', ja: 'イギリス' } },
     { name: 'italy', display: { en: 'Italy', ja: 'イタリア' } },
+    { name: 'france', display: { en: 'France', ja: 'フランス' } },
     { name: 'misc', display: { en: 'Misc', ja: 'その他' } },
   ],
   postCategories: [
