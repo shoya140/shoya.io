@@ -2,6 +2,7 @@ import { useRouter } from 'next/router'
 import 'photoswipe/dist/photoswipe.css'
 import 'photoswipe/dist/default-skin/default-skin.css'
 import { Gallery, Item } from 'react-photoswipe-gallery'
+import LazyLoad from 'react-lazyload'
 
 import Layout from 'components/layout'
 import Category from 'components/category'
@@ -47,12 +48,10 @@ export default function Photos() {
                 key={photo.url}
               >
                 {({ ref, open }) => (
-                  <div className="photo-thumbnail">
-                    <img
-                      ref={ref}
-                      onClick={open}
-                      src={`${photo.url}/thumb/500`}
-                    />
+                  <div className="photo-thumbnail" ref={ref} onClick={open}>
+                    <LazyLoad height={76} once>
+                      <img src={`${photo.url}/thumb/500`} />
+                    </LazyLoad>
                   </div>
                 )}
               </Item>
