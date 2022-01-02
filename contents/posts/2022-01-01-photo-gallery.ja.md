@@ -12,6 +12,11 @@ eyecatch: /img/blog_photo_gallery.png
 
 URLは[shoya.io/photos](https://shoya.io/photos)です。以前まではphotos.shoya.ioというWebサイトで写真を公開していたのですが、tumblurを使っている関係で意図しないポップアップアラートが表示されるようになったり、投稿のタグを改造して作った「撮影した場所を地図で表示する機能」を動かすGoogle MapsがAPIキーを要求するようになったり、いろいろと問題がでていたので作り直してみました。ちなみに、photos.shoya.ioはドイツに来て1年目の冬のホリデープロジェクトでした。
 
-画像のホスティングにはGyazoを使っています。Gyazoには横幅を指定してサムネイル画像を生成する機能があり (例: [https://gyazo.com/b67dffbbebc9d84ee1d87d32b70b6292/thumb/400](https://gyazo.com/b67dffbbebc9d84ee1d87d32b70b6292/thumb/400))、便利で良いと思いました。同様の機能をもつサービスとしてimgurやGoogle Photosも検討しました。
+画像のホスティングにはGyazoを使っています。Gyazoには横幅を指定してサムネイル画像を生成する機能があり、便利で良いと思いました。同様の機能をもつサービスとしてimgurやGoogle Photosも検討しました。
+
+```
+元の大きさ: https://gyazo.com/b67dffbbebc9d84ee1d87d32b70b6292
+サムネイル: https://gyazo.com/b67dffbbebc9d84ee1d87d32b70b6292/thumb/400
+```
 
 公開する写真を選んでいると、COVID-19の影響で直近2年は人と会ったり外に出たりといった活動がほぼなかったことを改めて実感できて、2022年はやっていかねばと思いました。
