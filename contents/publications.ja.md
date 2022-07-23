@@ -4,7 +4,7 @@ title: "論文"
 
 ## 論文誌
 
-@[references](vargo2022obtaining watanabe2021discaas brishtel2020mind amft2015making)
+@[references](chen2022quantitative vargo2022obtaining watanabe2021discaas brishtel2020mind amft2015making)
 
 ## 書籍 (分担著)
 
@@ -12,13 +12,17 @@ title: "論文"
 
 ## 国際会議の予稿
 
-@[references](dzsotjan2021power vadiraja2021effects garg2021stress vadiraja2021text ishimaru2020gaze santhosh2020generating maruichi2019self ishimaru2019electrooculography ishimaru2018hypermind jacob2018interest herurkar2018combining ohbayashi2018investigating santhosh2018estimating grossmann2018iql jacob2018gaze brishtel2018assessing ishimaru2017cognitive ishimaru2017towards kise2017quantified ishimaru2017arfled hoffmann2016stres ishimaru2016cognitive ishimaru2016towards ishimaru2016wordometer ishimaru2016reading rigaud2016semi ishimaru2015quantifying kunze2015eye kunze2015quantifying kunze2015smart tanaka2015nekoze ishimaru2015smart ishimaru2014brain ishimaru2014smarter ishimaru2014logging ishimaru2014blink ishimaru2013eyetracking kunze2013reading kunze2013eeg)
+@[references](watanabe2022how dzsotjan2021power vadiraja2021effects garg2021stress vadiraja2021text ishimaru2020gaze santhosh2020generating maruichi2019self ishimaru2019electrooculography ishimaru2018hypermind jacob2018interest herurkar2018combining ohbayashi2018investigating santhosh2018estimating grossmann2018iql jacob2018gaze brishtel2018assessing ishimaru2017cognitive ishimaru2017towards kise2017quantified ishimaru2017arfled hoffmann2016stres ishimaru2016cognitive ishimaru2016towards ishimaru2016wordometer ishimaru2016reading rigaud2016semi ishimaru2015quantifying kunze2015eye kunze2015quantifying kunze2015smart tanaka2015nekoze ishimaru2015smart ishimaru2014brain ishimaru2014smarter ishimaru2014logging ishimaru2014blink ishimaru2013eyetracking kunze2013reading kunze2013eeg)
 
 ## その他 (査読なし)
 
 @[references](ishimaru2021confidence)
 
 ## 国内会議の予稿
+
+1. 陳 辰昊, 徳原 耕亮, 荒川 豊, 渡邉 洸 and <u>石丸翔也</u>. <b>マルチモーダルなマイクロ行動分析に基づく複数人会議の定量化</b>, 人工知能学会全国大会論文集 第36回全国大会 (2022), no. 1P1-GS-10-04, 2022.
+
+1. 徳原 耕亮, 渡邉 洸, <u>石丸 翔也</u> and 荒川 豊. <b>ミーティング中のうなずきを対象としたヒューマンインザループ動画アノテーションシステムの構築と評価</b>, 人工知能学会全国大会論文集 第36回全国大会 (2022), no. 3I3-OS-5a-01, 2022.
 
 1. 渡邉 洸, <u>石丸 翔也</u> and 荒川 豊. <b>インタラクティブなデジタル教科書の作成用ツールHyperMind Builderの開発および評価</b>, インタラクション2019, pp. 778-783, 2019.
 
