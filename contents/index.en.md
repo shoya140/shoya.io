@@ -58,6 +58,7 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
+|<tt>2022</tt>|Andreas Rohde, "Identifying Confidence and Correctness in Problem-Solving of Graphing Tasks with Eye tracking and Smartpad Data"|
 |<tt>2021</tt>|Prerna Garg, "A Survey and Evaluation of Sensor Based Multimodal Physiological Datasets for Stress Detection"|
 |<tt>2021</tt>|Pramod Vadiraja, "Leveraging Machine Learning to Improve Comprehension by Content Personalization Based on the Cognitive State of the Reader"|
 |<tt>2020</tt>|Arka Sinha, "Object Recognition on Learning Materials with Deep Neural Networks for Document Understanding"|
@@ -79,9 +80,7 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
-|<tt>2021.SS</tt>|Collaborative Intelligence (Co-lecturing with Prof. Dengel)|
-|<tt>2020.SS</tt>|Collaborative Intelligence (Co-lecturing with Prof. Dengel)|
-|<tt>2019.SS</tt>|Collaborative Intelligence (Co-lecturing with Prof. Dengel)|
+|<tt>2019-2022 SS</tt>|Collaborative Intelligence (Co-lecturing with Prof. Dengel)|
 
 ## Grants
 
@@ -98,13 +97,15 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
+|<tt>2022.09</tt>|Co-Organizer for <a href="https://www.lecycl.org/ubicompiswc22/">LeCycl 2022</a>|
+|<tt>2022.03</tt>|Program Committee for <a href="https://augmented-humans.org/">Augmented Humans 2022</a>|
 |<tt>2021.02</tt>|Program Committee for <a href="https://augmented-humans.org/">Augmented Humans 2021</a>|
 |<tt>2020.03</tt>|Program Co-Chair for <a href="https://augmented-humans.org/">Augmented Humans 2020</a>|
 |<tt>2019.09</tt>|Co-Organizer for <a href="http://eyewear.pro/eyewild2019/">EyeWild 2019</a>|
 |<tt>2019.03</tt>|Program Committee for <a href="https://perpersuasion.ubi-lab.com/?fbclid=IwAR1QiuoopBcAkAVmGFygEcY4mYqrO-KjhzXZF664nhMdBb1uK1o5tFp7E4I">PerPersuasion 2019</a>|
 |<tt>2018.10</tt>|Program Committee for <a href="http://www.dfki.uni-kl.de/~kieni/read2018/">READ 2018</a>|
 |<tt>2015.03</tt>|Co-Organizer for <a href="http://recruit-jinji.jp/adf_fes2015/">Application Developer Festival 2015</a>|
-|<tt>Reviewing</tt>|ACM IMWUT, IEEE Access, IJDAR, MDPI Mathematics, IPSJ, CHI '22 '21 '20, IUI '21, AHs '21, ISWC '20, MobileHCI '20, PerCom-PerPersuasion '19, READ '18, ICDAR-HDI '17|
+|<tt>Reviewing</tt>|IMWUT, IEEE Access, IJDAR, Sensors, Mathematics, IPSJ, CHI, ISWC, IUI, AHs, MobileHCI|
 
 ## Awards and Honorable Activities
 
