@@ -26,7 +26,7 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
-|<tt>2021-現在</tt>|<a href="https://alphaben.app">Alphaben GbR</a> 最高研究責任者 (CRO)|
+|<tt>2021-現在</tt>|<a href="https://alphaben.app">Alphaben GbR</a> 共同創業者・最高研究責任者 (CRO)|
 |<tt>2019-現在</tt>|<a href="https://www.dfki.de/web/">ドイツ人工知能研究センター (DFKI)</a> <span class="no-wrap">シニアリサーチャー</span>|
 |<tt>2016-2019</tt>|<a href="https://www.dfki.de/web/">ドイツ人工知能研究センター (DFKI)</a> <span class="no-wrap">リサーチャー</span>|
 
