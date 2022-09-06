@@ -797,3 +797,38 @@ li.reference {
     width: calc((100% - 3 * 4px) / 3);
   }
 }
+
+.btn {
+  display: inline-block;
+  padding: 0.7rem 1.5rem;
+  color: $brand-color;
+  background-color: transparent;
+  border: 1px solid $brand-color;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.1s;
+  &:hover {
+    color: $surface-color;
+    background-color: $brand-color;
+    border-color: transparent;
+    text-decoration: none;
+  }
+}
+
+.social-container {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.index-section {
+  margin-top: 2rem;
+}
+
+.index-card-container {
+  display: flex;
+
+  @include media-query($on-palm) {
+    flex-direction: column;
+  }
+}

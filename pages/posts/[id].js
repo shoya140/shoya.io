@@ -6,11 +6,12 @@ import { getAllContentIds, getContentData } from 'lib/contents'
 import { initTweet } from 'lib/load-external-source'
 
 export default function Post({ postData }) {
+  const router = useRouter()
+
   useEffect(() => {
     initTweet()
   }, [])
 
-  const { locale } = useRouter()
   return (
     <Layout
       title={postData.title}
@@ -23,6 +24,23 @@ export default function Post({ postData }) {
       <article>
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
       </article>
+      <div className="social-container">
+        <button
+          className="btn"
+          onClick={() => {
+            const url = `https://shoya.io${
+              router.locale === 'en' ? '' : '/' + router.locale
+            }${router.asPath}`
+            const tweetText = encodeURIComponent(`${postData.title} ${url}`)
+            window.open(
+              `https://twitter.com/intent/tweet?text=${tweetText}`,
+              '_blank'
+            )
+          }}
+        >
+          Share on Twitter
+        </button>
+      </div>
     </Layout>
   )
 }
