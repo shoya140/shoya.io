@@ -81,7 +81,8 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
-|<tt>2019-2022 SS</tt>|Collaborative Intelligence (Dengel教授との共同講義)|
+|<tt>2022 WS</tt>|[Neurocognitive Computing](https://modhb.uni-kl.de/mhb/modules/INF-78-51-M-6/)|
+|<tt>2019-22 SS</tt>|[Collaborative Intelligence](https://modhb.uni-kl.de/mhb/modules/INF-71-58-M-5/) (Dengel教授との共同講義)|
 
 ## 獲得資金
 
