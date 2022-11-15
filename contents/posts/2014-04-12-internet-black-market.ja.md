@@ -49,6 +49,6 @@ keywords: ['インターネット闇市', 'internet black market', 'トランス
 
 ![ ](/img/blog_black09.jpg)
 
-今回の目的はこれ。石を買うこと。そこらへんにある石を採取して、3Dスキャンしたデータモデルと一緒に販売している。「IPv6は枯渇しない。地上にあるすべての石にIPアドレスをふっても大丈夫らしい。」という話を聞いて思いついたとのこと。([Back streets of the Internet - YouTube](https://www.youtube.com/watch?v=mjWJsE7B1cs#t=290)より) おもしろいなー
+今回の目的はこれ。石を買うこと。そこらへんにある石を採取して、3Dスキャンしたデータモデルと一緒に販売している。「IPv6は枯渇しない。地上にあるすべての石にIPアドレスをふっても大丈夫らしい。」という話を聞いて思いついたとのこと。([Back streets of the Internet - YouTube](https://www.youtube-nocookie.com/watch?v=mjWJsE7B1cs#t=290)より) おもしろいなー
 
 インターネット闇市、面白いものが買えるというより、それを思いついた経緯とかインターネットに対する考え方とかを聞けるのが楽しい。次回は自分も出店してみたい。

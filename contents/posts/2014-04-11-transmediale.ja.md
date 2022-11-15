@@ -26,4 +26,4 @@ keywords: ['トランスメディアーレ', 'ベルリン']
 
 ![ ](/img/blog_transmediale21.jpg)
 
-アーティストトークの様子。トークは[YouTubeで公開されています](https://www.youtube.com/channel/UC3enqTa8dIP9YhhMqNWZZ1A)。
+アーティストトークの様子。トークは[YouTubeで公開されています](https://www.youtube-nocookie.com/channel/UC3enqTa8dIP9YhhMqNWZZ1A)。
