@@ -35,6 +35,7 @@ export default function Layout({
           name="author"
           href="https://plus.google.com/u/0/102413339779614193497/posts"
         />
+        <link rel="me" href="https://m7.social/@shoya" />
         <link rel="author" href="https://www.hatena.ne.jp/Mrk1869/" />
         {keywords && <meta name="keywords" content={keywords} />}
         {description && <meta name="twitter:card" content="summary" />}
