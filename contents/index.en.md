@@ -59,6 +59,7 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
+|<tt>2023</tt>|Tanuja Sathyanarayana, "Using Deep Neutral Networks to Predict Engagement in Online Meeting Based on Facial Expression"|
 |<tt>2022</tt>|Ali Mert İnal, "Effect of Conversational Agents on Learning and Cognitive Load"|
 |<tt>2022</tt>|Andreas Rohde, "Identifying Confidence and Correctness in Problem-Solving of Graphing Tasks with Eye tracking and Smartpad Data"|
 |<tt>2021</tt>|Prerna Garg, "A Survey and Evaluation of Sensor Based Multimodal Physiological Datasets for Stress Detection"|
