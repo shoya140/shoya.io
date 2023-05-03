@@ -1,6 +1,6 @@
 ---
-title: "Jun.-Prof. Dr. Shoya Ishimaru"
-keywords: ["Shoya Ishimaru", "Ishimaru Shoya", "石丸 翔也", "石丸翔也", "Shoya", "Ishimaru", "shoya140", "Alphaben", "DFKI", "ドイツ人工知能研究センター", "Kaiserslautern", "Portfolio", "ポートフォリオ"]
+title: "Prof. Dr. Shoya Ishimaru"
+keywords: ["Shoya Ishimaru", "Ishimaru Shoya", "石丸 翔也", "石丸翔也", "Shoya", "Ishimaru", "shoya140", "大阪公立大学", "OMU", "Alphaben", "DFKI", "ドイツ人工知能研究センター", "Kaiserslautern", "Portfolio", "ポートフォリオ"]
 description: "Dr. Shoya Ishimaru is a Project Professor in Computer Science at Osaka Metropolitan University and a Co-Founder of Alphaben. His research interest is to invent new technologies augmenting human intellect."
 eyecatch: "/img/icon_portrait.jpg"
 ---
