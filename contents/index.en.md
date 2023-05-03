@@ -1,13 +1,13 @@
 ---
 title: "Jun.-Prof. Dr. Shoya Ishimaru"
 keywords: ["Shoya Ishimaru", "Ishimaru Shoya", "石丸 翔也", "石丸翔也", "Shoya", "Ishimaru", "shoya140", "Alphaben", "DFKI", "ドイツ人工知能研究センター", "Kaiserslautern", "Portfolio", "ポートフォリオ"]
-description: "Dr. Shoya Ishimaru is a Junior Professor in Computer Science at the University of Kaiserslautern, a Senior Researcher at the German Research Center for Artificial Intelligence (DFKI), and a Co-Founder CRO of Alphaben. His research interest is to invent new technologies augmenting human intellect."
+description: "Dr. Shoya Ishimaru is a Project Professor in Computer Science at Osaka Metropolitan University and a Co-Founder of Alphaben. His research interest is to invent new technologies augmenting human intellect."
 eyecatch: "/img/icon_portrait.jpg"
 ---
 
 <div class="bio">
     <img src="/img/icon_portrait.jpg" class="image-portrait" width="130px" height="130px" alt="Shoya Ishimaru">
-    <p>Shoya Ishimaru is a Junior Professor in Computer Science at the <a href="https://www.uni-kl.de/">University of Kaiserslautern</a>, a Senior Researcher at the <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a> and a Co-Founder CRO of <a href="https://alphaben.app">Alphaben GbR</a>. His research interest is to invent new technologies augmenting human intellect [<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Google Scholar</a>]. He received his PhD in Engineering at the <a href="https://www.uni-kl.de/">University of Kaiserslautern</a> and the title of <a href="https://www.meti.go.jp/english/press/2016/0602_01.html">MITOU Super Creator</a> by the Ministry of Economy, Trade, and Industry in Japan.</p>
+    <p>Shoya Ishimaru is a Project Professor at the Graduate School of Informatics, Osaka Metropolitan University. He has worked as a Junior Professor (PI) at  the University of Kaiserslautern, Senior Researcher at the German Research Center for Artificial Intelligence (DFKI), and Co-Founder CRO at Alphaben. He received his PhD in Engineering at the University of Kaiserslautern and the title of MITOU Super Creator by the Ministry of Economy, Trade, and Industry in Japan. His research interest is to invent new technologies augmenting human intellect [<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Google Scholar</a>].</p>
 </div>
 
 ![ ](/img/topics.png)
@@ -16,9 +16,10 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
-|<tt>2022-*&nbsp;&nbsp;&nbsp;</tt>|Visiting Associate Professor, <span class="no-wrap"><a href="https://www.upc-osaka.ac.jp/new-univ/en-research/">Osaka Metropolitan University</a></span>|
-|<tt>2021-*&nbsp;&nbsp;&nbsp;</tt>|Junior Professor (PI), <span class="no-wrap"><a href="https://www.uni-kl.de">University of Kaiserslautern</a></span>|
+|<tt>2023-*&nbsp;&nbsp;&nbsp;</tt>|Project Professor, <span class="no-wrap"><a href="https://www.omu.ac.jp/i/en/">Osaka Metropolitan University</a></span>|
 |<tt>2014-*&nbsp;&nbsp;&nbsp;</tt>|Researcher, <span class="no-wrap"><a href="http://www.kmd.keio.ac.jp/">Keio Media Design Research Institute</a></span>|
+|<tt>2022-2023</tt>|Visiting Associate Professor, <span class="no-wrap"><a href="https://www.upc-osaka.ac.jp/new-univ/en-research/">Osaka Metropolitan University</a></span>|
+|<tt>2021-2023</tt>|Junior Professor (PI), <span class="no-wrap"><a href="https://www.uni-kl.de">University of Kaiserslautern</a></span>|
 |<tt>2016-2022</tt>|Visiting Researcher, <span class="no-wrap"><a href="http://www.osakafu-u.ac.jp/english/">Osaka Prefecture University</a></span>|
 |<tt>2016-2019</tt>|Research Associate, <span class="no-wrap"><a href="https://www.uni-kl.de">University of Kaiserslautern</a></span>|
 
@@ -109,7 +110,7 @@ eyecatch: "/img/icon_portrait.jpg"
 |<tt>2019.03</tt>|Program Committee for <a href="https://perpersuasion.ubi-lab.com/?fbclid=IwAR1QiuoopBcAkAVmGFygEcY4mYqrO-KjhzXZF664nhMdBb1uK1o5tFp7E4I">PerPersuasion 2019</a>|
 |<tt>2018.10</tt>|Program Committee for <a href="http://www.dfki.uni-kl.de/~kieni/read2018/">READ 2018</a>|
 |<tt>2015.03</tt>|Co-Organizer for <a href="http://recruit-jinji.jp/adf_fes2015/">Application Developer Festival 2015</a>|
-|<tt>Reviewing</tt>|IMWUT, IEEE Access, IJDAR, Sensors, Mathematics, IPSJ, CHI, ISWC, IUI, AHs, MobileHCI|
+|<tt>Reviewing</tt>|IMWUT, IEEE Pervasive, IEEE Access, IJDAR, Sensors, Mathematics, IPSJ, CHI, ISWC, IUI, AHs, MobileHCI|
 
 ## Awards and Honorable Activities
 
@@ -142,6 +143,6 @@ eyecatch: "/img/icon_portrait.jpg"
 |||
 |:---:|:---|
 |<tt>&nbsp;Private</tt>|*firstname*.*lastname*@gmail.com|
-|<tt>Official</tt>|*lastname*@cs.uni-kl.de|
+|<tt>Official</tt>|*lastname*@omu.ac.jp|
 
 [Download CV](/cv.pdf)

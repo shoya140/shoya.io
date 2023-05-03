@@ -1,13 +1,13 @@
 ---
 title: "石丸 翔也 (Shoya Ishimaru)"
 keywords: ["Shoya Ishimaru", "Ishimaru Shoya", "石丸 翔也", "石丸翔也", "Shoya", "Ishimaru", "shoya140", "Alphaben", "DFKI", "ドイツ人工知能研究センター", "Kaiserslautern", "Portfolio", "ポートフォリオ"]
-description: "石丸翔也は工学博士、カイザースラウテルン工科大学 ジュニア教授、ドイツ人工知能研究センター (DFKI) シニアリサーチャー、Alphaben Co-Founder CRO、IPA未踏スーパークリエータ、未踏ジュニア メンター。眼鏡型ウェアラブルコンピューティングや学習支援技術を中心に、人の知性 (物事を学び・考え・伝える能力) を拡張する技術の研究をしています。"
+description: "石丸翔也は工学博士、大阪公立大学特任教授、Alphaben Co-Founder、IPA未踏スーパークリエータ、未踏ジュニア メンター。眼鏡型ウェアラブルコンピューティングや学習支援技術を中心に、人の知性 (物事を学び・考え・伝える能力) を拡張する技術の研究をしています。"
 eyecatch: "/img/icon_portrait.jpg"
 ---
 
 <div class="bio">
     <img src="/img/icon_portrait.jpg" class="image-portrait" width="130px" height="130px" alt="石丸 翔也">
-    <p>工学博士 / カイザースラウテルン工科大学 ジュニア教授 / ドイツ人工知能研究センター (DFKI) シニアリサーチャー / Alphaben Co-Founder CRO / IPA未踏スーパークリエータ / 未踏ジュニア メンター。眼鏡型ウェアラブルコンピューティングや学習支援技術を中心に、人の知性 (物事を学び・考え・伝える能力) を拡張する技術の研究をしています。[<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Google Scholar</a>]</p>
+    <p>大阪公立大学特任教授。2016年に大阪府立大学にて修士 (工学) を取得し、渡欧。カイザースラウテルン工科大学にて最優秀博士 (工学) を取得。同大学Junior Professor (PI)、ドイツ人工知能研究センター (DFKI) Senior Researcher、Alphaben Co-Founder CROなどを務め、2023年より帰国して現職。AI技術によって人の知性を拡張する研究に取り組んでいる。「心温計：心の状態を可視化するシステムの開発」でIPA未踏スーパークリエータに認定された。</p>
 </div>
 
 ![ ](/img/topics.png)
@@ -16,9 +16,10 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
-|<tt>2022-現在</tt>|<a href="https://www.omu.ac.jp">大阪公立大学</a> <span class="no-wrap">客員准教授</span>|
-|<tt>2021-現在</tt>|<a href="https://www.uni-kl.de">カイザースラウテルン工科大学</a> <span class="no-wrap">ジュニア教授 (PI)</span>|
-|<tt>2014-現在</tt>|<a href="http://www.kmd.keio.ac.jp/jp/">慶應義塾大学KMD研究所</a> <span class="no-wrap">研究員</span>|
+|<tt>2023-現在</tt>|<a href="https://www.omu.ac.jp/i/">大阪公立大学 大学院情報学研究科</a> <span class="no-wrap">特任教授</span>|
+|<tt>2014-現在</tt>|<a href="http://www.kmd.keio.ac.jp/jp/">慶應義塾大学 KMD研究所</a> <span class="no-wrap">研究員</span>|
+|<tt>2022-2023</tt>|<a href="https://www.omu.ac.jp/i/">大阪公立大学 大学院情報学研究科</a> <span class="no-wrap">客員准教授</span>|
+|<tt>2021-2023</tt>|<a href="https://www.uni-kl.de">カイザースラウテルン工科大学</a> <span class="no-wrap">ジュニア教授 (PI)</span>|
 |<tt>2016-2022</tt>|<a href="http://www.osakafu-u.ac.jp/">大阪府立大学</a> <span class="no-wrap">客員研究員</span>|
 |<tt>2016-2019</tt>|<a href="https://www.uni-kl.de">カイザースラウテルン工科大学</a> <span class="no-wrap">リサーチアソシエイト</span>|
 
@@ -26,8 +27,8 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
-|<tt>2021-現在</tt>|<a href="https://alphaben.app">Alphaben GbR</a> 共同創業者・最高研究責任者 (CRO)|
-|<tt>2019-現在</tt>|<a href="https://www.dfki.de/web/">ドイツ人工知能研究センター (DFKI)</a> <span class="no-wrap">シニアリサーチャー</span>|
+|<tt>2021-2023</tt>|<a href="https://alphaben.app">Alphaben GbR</a> 共同創業者・最高研究責任者 (CRO)|
+|<tt>2019-2023</tt>|<a href="https://www.dfki.de/web/">ドイツ人工知能研究センター (DFKI)</a> <span class="no-wrap">シニアリサーチャー</span>|
 |<tt>2016-2019</tt>|<a href="https://www.dfki.de/web/">ドイツ人工知能研究センター (DFKI)</a> <span class="no-wrap">リサーチャー</span>|
 
 ## インターン・アルバイト・サービス
@@ -109,7 +110,7 @@ eyecatch: "/img/icon_portrait.jpg"
 |<tt>2019.03</tt>|<a href="https://perpersuasion.ubi-lab.com/?fbclid=IwAR1QiuoopBcAkAVmGFygEcY4mYqrO-KjhzXZF664nhMdBb1uK1o5tFp7E4I">PerPersuasion 2019</a> Program Committee|
 |<tt>2018.10</tt>|<a href="http://www.dfki.uni-kl.de/~kieni/read2018/">READ 2018</a> Program Committee|
 |<tt>2015.03</tt>|<a href="http://recruit-jinji.jp/adf_fes2015/">Application Developer Festival 2015</a> Co-Organizer|
-|<tt>査読</tt>|IMWUT, IEEE Access, IJDAR, Sensors, Mathematics, IPSJ, CHI, ISWC, IUI, AHs, MobileHCI|
+|<tt>査読</tt>|IMWUT, IEEE Pervasive, IEEE Access, IJDAR, Sensors, Mathematics, IPSJ, CHI, ISWC, IUI, AHs, MobileHCI|
 
 ## 受賞・特筆的活動
 
@@ -142,6 +143,6 @@ eyecatch: "/img/icon_portrait.jpg"
 |||
 |:---:|:---|
 |<tt>&nbsp;Private</tt>|*firstname*.*lastname*@gmail.com|
-|<tt>Official</tt>|*lastname*@cs.uni-kl.de|
+|<tt>Official</tt>|*lastname*@omu.ac.jp|
 
 [CVをダウンロードする](/cv.pdf)
