@@ -4,7 +4,7 @@ title: "論文"
 
 ## 論文誌
 
-@[references](watanabe2023engauge chen2022quantitative vargo2022obtaining watanabe2021discaas brishtel2020mind amft2015making)
+@[references](santhosh2023multimodal watanabe2023engauge chen2022quantitative vargo2022obtaining watanabe2021discaas brishtel2020mind amft2015making)
 
 ## 書籍 (分担著)
 
@@ -12,7 +12,7 @@ title: "論文"
 
 ## 国際会議の予稿
 
-@[references](watanabe2023accelerating watanabe2023trackthinkcamera watanabe2023combining yamaoka2022experience suzawa2022supporting vargo2022learning santhosh2022real watanabe2022how dzsotjan2021power vadiraja2021effects garg2021stress vadiraja2021text ishimaru2020gaze santhosh2020generating maruichi2019self ishimaru2019electrooculography ishimaru2018hypermind jacob2018interest herurkar2018combining ohbayashi2018investigating santhosh2018estimating grossmann2018iql jacob2018gaze brishtel2018assessing ishimaru2017cognitive ishimaru2017towards kise2017quantified ishimaru2017arfled hoffmann2016stres ishimaru2016cognitive ishimaru2016towards ishimaru2016wordometer ishimaru2016reading rigaud2016semi ishimaru2015quantifying kunze2015eye kunze2015quantifying kunze2015smart tanaka2015nekoze ishimaru2015smart ishimaru2014brain ishimaru2014smarter ishimaru2014logging ishimaru2014blink ishimaru2013eyetracking kunze2013reading kunze2013eeg)
+@[references](bhatt2023appearance ramachandra2023enhancing watanabe2023accelerating watanabe2023trackthinkcamera watanabe2023combining yamaoka2022experience suzawa2022supporting vargo2022learning santhosh2022real watanabe2022how dzsotjan2021power vadiraja2021effects garg2021stress vadiraja2021text ishimaru2020gaze santhosh2020generating maruichi2019self ishimaru2019electrooculography ishimaru2018hypermind jacob2018interest herurkar2018combining ohbayashi2018investigating santhosh2018estimating grossmann2018iql jacob2018gaze brishtel2018assessing ishimaru2017cognitive ishimaru2017towards kise2017quantified ishimaru2017arfled hoffmann2016stres ishimaru2016cognitive ishimaru2016towards ishimaru2016wordometer ishimaru2016reading rigaud2016semi ishimaru2015quantifying kunze2015eye kunze2015quantifying kunze2015smart tanaka2015nekoze ishimaru2015smart ishimaru2014brain ishimaru2014smarter ishimaru2014logging ishimaru2014blink ishimaru2013eyetracking kunze2013reading kunze2013eeg)
 
 ## その他 (査読なし)
 
@@ -20,7 +20,9 @@ title: "論文"
 
 ## 国内会議の予稿
 
-1. 陳 辰昊, 徳原 耕亮, 荒川 豊, 渡邉 洸 and <u>石丸翔也</u>. <b>マルチモーダルなマイクロ行動分析に基づく複数人会議の定量化</b>, 人工知能学会全国大会論文集 第36回全国大会 (2022), no. 1P1-GS-10-04, 2022.
+1. 田中 紀行, 松岡 凜太郎, 渡邊 洸, <u>石丸 翔也</u>, 藤本 まなと, 阿多信吾. <b>マルチモーダルセンシングによる映像授業受講時における集中状態推定システムの検討</b>, 電子情報通信学会2023年ソサイエティ大会, 2023, to appear.
+
+1. 陳 辰昊, 徳原 耕亮, 荒川 豊, 渡邉 洸 and <u>石丸 翔也</u>. <b>マルチモーダルなマイクロ行動分析に基づく複数人会議の定量化</b>, 人工知能学会全国大会論文集 第36回全国大会 (2022), no. 1P1-GS-10-04, 2022.
 
 1. 徳原 耕亮, 渡邉 洸, <u>石丸 翔也</u> and 荒川 豊. <b>ミーティング中のうなずきを対象としたヒューマンインザループ動画アノテーションシステムの構築と評価</b>, 人工知能学会全国大会論文集 第36回全国大会 (2022), no. 3I3-OS-5a-01, 2022.
 
