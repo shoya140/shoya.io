@@ -38,7 +38,7 @@ export default function Post({ postData }) {
             )
           }}
         >
-          Share on Twitter
+          Share on X
         </button>
       </div>
     </Layout>
