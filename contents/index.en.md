@@ -1,13 +1,13 @@
 ---
 title: "Prof. Dr. Shoya Ishimaru"
 keywords: ["Shoya Ishimaru", "Ishimaru Shoya", "石丸 翔也", "石丸翔也", "Shoya", "Ishimaru", "shoya140", "大阪公立大学", "OMU", "Alphaben", "DFKI", "ドイツ人工知能研究センター", "Kaiserslautern", "Portfolio", "ポートフォリオ"]
-description: "Dr. Shoya Ishimaru is a Project Professor in Computer Science at Osaka Metropolitan University and a Co-Founder of Alphaben. His research interest is to invent new technologies augmenting human intellect."
+description: "Dr. Shoya Ishimaru is a Project Professor in Computer Science at Osaka Metropolitan University and a Co-Founder CEO of Affectify Inc. His research interest is to invent new technologies augmenting human intellect."
 eyecatch: "/img/icon_portrait.jpg"
 ---
 
 <div class="bio">
     <img src="/img/icon_portrait.jpg" class="image-portrait" width="130px" height="130px" alt="Shoya Ishimaru">
-    <p>Shoya Ishimaru is a Project Professor at the Graduate School of Informatics, Osaka Metropolitan University. He has worked as a Junior Professor (PI) at  the University of Kaiserslautern, Senior Researcher at the German Research Center for Artificial Intelligence (DFKI), and Co-Founder CRO at Alphaben. He received his PhD in Engineering at the University of Kaiserslautern and the title of MITOU Super Creator by the Ministry of Economy, Trade, and Industry in Japan. His research interest is to invent new technologies augmenting human intellect [<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Google Scholar</a>].</p>
+    <p>Shoya Ishimaru is a Project Professor at Osaka Metropolitan University and the CEO of Affectify Inc. He formally worked as a Junior Professor (PI) at the University of Kaiserslautern, a Senior Researcher at the German Research Center for Artificial Intelligence (DFKI), and a Co-Founder CRO at Alphaben. He received his PhD in Engineering at the University of Kaiserslautern and the title of MITOU Super Creator by the Ministry of Economy, Trade, and Industry in Japan. His research interest is to invent new technologies augmenting human intellect [<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Google Scholar</a>].</p>
 </div>
 
 ![ ](/img/topics.png)
@@ -27,8 +27,9 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
-|<tt>2021-*&nbsp;&nbsp;&nbsp;</tt>|Chief Research Officer (CRO), <a href="https://alphaben.app">Alphaben GbR</a>|
-|<tt>2019-*&nbsp;&nbsp;&nbsp;</tt>|Senior Researcher, <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a>|
+|<tt>2023-*&nbsp;&nbsp;&nbsp;</tt>|Co-Founder & Chief Executive Officer (CEO), <a href="https://affectify.jp/">Affectify Inc.</a>|
+|<tt>2021-2023</tt>|Co-Founder & Chief Research Officer (CRO), <a href="https://alphaben.app">Alphaben GbR</a>|
+|<tt>2019-2023</tt>|Senior Researcher, <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a>|
 |<tt>2016-2019</tt>|Researcher, <a href="http://www.dfki.de/web">German Research Center for Artificial Intelligence (DFKI)</a>|
 
 ## Internship, Part-Time Job, and Service
@@ -60,6 +61,8 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
+|<tt>2023</tt>|Javier Alberto Carrasco Melo, "Automatic classification of difficulty of text from eye gaze and physiological measure of L2 English Speakers"|
+|<tt>2023</tt>|Rashmi Alur Ramachandra, "User Stress Levels Detection by Physiological Sensing and Deep Learning"|
 |<tt>2023</tt>|Tanuja Sathyanarayana, "Using Deep Neutral Networks to Predict Engagement in Online Meeting Based on Facial Expression"|
 |<tt>2022</tt>|Ali Mert İnal, "Effect of Conversational Agents on Learning and Cognitive Load"|
 |<tt>2022</tt>|Andreas Rohde, "Identifying Confidence and Correctness in Problem-Solving of Graphing Tasks with Eye tracking and Smartpad Data"|

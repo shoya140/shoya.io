@@ -1,13 +1,13 @@
 ---
 title: "石丸 翔也 (Shoya Ishimaru)"
 keywords: ["Shoya Ishimaru", "Ishimaru Shoya", "石丸 翔也", "石丸翔也", "Shoya", "Ishimaru", "shoya140", "大阪公立大学", "OMU", "Alphaben", "DFKI", "ドイツ人工知能研究センター", "Kaiserslautern", "Portfolio", "ポートフォリオ"]
-description: "石丸翔也は工学博士、大阪公立大学特任教授、Alphaben Co-Founder、IPA未踏スーパークリエータ、未踏ジュニア メンター。眼鏡型ウェアラブルコンピューティングや学習支援技術を中心に、人の知性 (物事を学び・考え・伝える能力) を拡張する技術の研究をしています。"
+description: "石丸翔也は工学博士、大阪公立大学特任教授、株式会社Affectify代表取締役、IPA未踏スーパークリエータ、未踏ジュニア メンター。AI技術によって人の知性を拡張する研究に取り組んでいる。"
 eyecatch: "/img/icon_portrait.jpg"
 ---
 
 <div class="bio">
     <img src="/img/icon_portrait.jpg" class="image-portrait" width="130px" height="130px" alt="石丸 翔也">
-    <p>大阪公立大学特任教授。2016年に大阪府立大学にて修士 (工学) を取得し、渡欧。カイザースラウテルン工科大学にて最優秀博士 (工学) を取得。同大学Junior Professor (PI)、ドイツ人工知能研究センター (DFKI) Senior Researcher、Alphaben Co-Founder CROなどを務め、2023年より帰国して現職。AI技術によって人の知性を拡張する研究に取り組んでいる。「心温計：心の状態を可視化するシステムの開発」でIPA未踏スーパークリエータに認定された。</p>
+    <p>大阪公立大学特任教授・株式会社Affectify代表取締役。2016年に大阪府立大学にて修士 (工学) を取得し、渡欧。カイザースラウテルン工科大学にて博士 (工学) を取得。同大学Junior Professor (PI)、ドイツ人工知能研究センター (DFKI) Senior Researcher、Alphaben CROなどを務め、2023年より帰国して現職。AI技術によって人の知性を拡張する研究に取り組んでいる。「心温計：心の状態を可視化するシステムの開発」でIPA未踏スーパークリエータに認定された。</p>
 </div>
 
 ![ ](/img/topics.png)
@@ -27,6 +27,7 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
+|<tt>2023-現在</tt>|<a href="https://affectify.jp/">株式会社Affectify</a> 代表取締役・最高経営責任者 (CEO)|
 |<tt>2021-2023</tt>|<a href="https://alphaben.app">Alphaben GbR</a> 共同創業者・最高研究責任者 (CRO)|
 |<tt>2019-2023</tt>|<a href="https://www.dfki.de/web/">ドイツ人工知能研究センター (DFKI)</a> <span class="no-wrap">シニアリサーチャー</span>|
 |<tt>2016-2019</tt>|<a href="https://www.dfki.de/web/">ドイツ人工知能研究センター (DFKI)</a> <span class="no-wrap">リサーチャー</span>|
@@ -60,6 +61,8 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
+|<tt>2023</tt>|Javier Alberto Carrasco Melo, "Automatic classification of difficulty of text from eye gaze and physiological measure of L2 English Speakers"|
+|<tt>2023</tt>|Rashmi Alur Ramachandra, "User Stress Levels Detection by Physiological Sensing and Deep Learning"|
 |<tt>2023</tt>|Tanuja Sathyanarayana, "Using Deep Neutral Networks to Predict Engagement in Online Meeting Based on Facial Expression"|
 |<tt>2022</tt>|Ali Mert İnal, "Effect of Conversational Agents on Learning and Cognitive Load"|
 |<tt>2022</tt>|Andreas Rohde, "Identifying Confidence and Correctness in Problem-Solving of Graphing Tasks with Eye tracking and Smartpad Data"|
