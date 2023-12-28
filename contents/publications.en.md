@@ -4,7 +4,7 @@ title: "Publications"
 
 ## Journal Papers
 
-@[references](santhosh2023multimodal watanabe2023engauge chen2022quantitative vargo2022obtaining watanabe2021discaas brishtel2020mind amft2015making)
+@[references](santhosh2024toward santhosh2023multimodal watanabe2023engauge chen2022quantitative vargo2022obtaining watanabe2021discaas brishtel2020mind amft2015making)
 
 ## Book Chapter
 
