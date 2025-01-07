@@ -57,6 +57,12 @@ eyecatch: "/img/icon_portrait.jpg"
 ||“Activity Recognition with Google Glass: Combining Head Motion and Eye Blink Frequency”, Reviewers: Prof. Koichi Kise and Prof. Kai Kunze|
 |<tt>留学</tt>|<a href="http://www.univ-larochelle.fr/?lang=en">ラ・ロシェル大学</a> (2015.09-10), <a href="https://www.uni-kl.de/en/home/">カイザースラウテルン工科大学</a> (2013.10-2014.03)|
 
+## 博士論文指導
+
+|||
+|:---:|:---|
+|<tt>2024</tt>|Ko Watanabe, "Accelerating Knowledge Transfer by Sensing and Actuating Social-Cognitive States"|
+
 ## 修士論文指導
 
 |||
@@ -81,6 +87,7 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
+|<tt>2024</tt>|Nikita Khutorni, "Predicting Procrastination: A Real-Time Approach Using Biofeedback and Emotional Analysis"|
 |<tt>2018</tt>|Ann-Sophie Steinert, "Investigation of the Relationship between Reading Order and Reading Behaviour on a Textbook using Eye Tracking"|
 
 ## 講義
