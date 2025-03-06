@@ -4,7 +4,7 @@ title: "Publications"
 
 ## Journal Papers
 
-@[references](melo2025automatic yamaoka2025img2vocab kennel2025gaze bhatt2024estimating santhosh2024gaze dembinsky2024gaze bhatt2024appearance ramachandra2024enhancing santhosh2024toward santhosh2023multimodal watanabe2023engauge chen2022quantitative vargo2022obtaining watanabe2021discaas brishtel2020mind amft2015making)
+@[references](iwatsuru2025enhancing watanabe2025trackthink bhatt2025abcde melo2025automatic yamaoka2025img2vocab kennel2025gaze bhatt2024estimating santhosh2024gaze dembinsky2024gaze bhatt2024appearance ramachandra2024enhancing santhosh2024toward santhosh2023multimodal watanabe2023engauge chen2022quantitative vargo2022obtaining watanabe2021discaas brishtel2020mind amft2015making)
 
 ## Book Chapter
 
@@ -51,3 +51,5 @@ title: "Publications"
 1. <u>Shoya Ishimaru</u>, Kai Kunze, Koichi Kise, Yuji Uema and Masahiko Inami. <b>J!NS MEME — Activity Recognition using Smart Eyewear</b>. 第17回画像の認識・理解シンポジウム MIRU2014, 2014.
 
 1. <u>石丸 翔也</u>, Jens Weppner, Kai Kunze, Paul Lukowicz, Andreas Dengel, Andreas Bulling and 黄瀬 浩一. <b>Google Glassを用いた瞬き検出と認知的行動の認識</b>. 第17回画像の認識・理解シンポジウム MIRU2014, 2014.
+
+\* Contributed equally
