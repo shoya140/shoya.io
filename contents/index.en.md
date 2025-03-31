@@ -1,13 +1,13 @@
 ---
 title: "Prof. Dr. Shoya Ishimaru"
 keywords: ["Shoya Ishimaru", "Ishimaru Shoya", "石丸 翔也", "石丸翔也", "Shoya", "Ishimaru", "shoya140", "大阪公立大学", "OMU", "Alphaben", "DFKI", "ドイツ人工知能研究センター", "Kaiserslautern", "Portfolio", "ポートフォリオ"]
-description: "Dr. Shoya Ishimaru is a Project Professor in Computer Science at Osaka Metropolitan University and a Co-Founder CEO of Affectify Inc. His research interest is to invent new technologies augmenting human intellect."
+description: "Dr. Shoya Ishimaru is a Professor at Osaka Metropolitan University and a Co-Founder CEO of Affectify Inc. His research interest is to invent new technologies augmenting human intellect."
 eyecatch: "/img/icon_portrait.jpg"
 ---
 
 <div class="bio">
     <img src="/img/icon_portrait.jpg" class="image-portrait" width="130px" height="130px" alt="Shoya Ishimaru">
-    <p>Shoya Ishimaru is a Project Professor at Osaka Metropolitan University and the CEO of Affectify Inc. He formally worked as a Junior Professor (PI) at the University of Kaiserslautern, a Senior Researcher at the German Research Center for Artificial Intelligence (DFKI), and a Co-Founder CRO at Alphaben. He received his PhD in Engineering at the University of Kaiserslautern and the title of MITOU Super Creator by the Ministry of Economy, Trade, and Industry in Japan. His research interest is to invent new technologies augmenting human intellect [<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Google Scholar</a>].</p>
+    <p>Shoya Ishimaru is a Professor at Osaka Metropolitan University and the CEO of Affectify Inc. He formally worked as a Junior Professor (PI) at the University of Kaiserslautern, a Senior Researcher at the German Research Center for Artificial Intelligence (DFKI), and a Co-Founder CRO at Alphaben. He received his PhD in Engineering at the University of Kaiserslautern and the title of MITOU Super Creator by the Ministry of Economy, Trade, and Industry in Japan. His research interest is to invent new technologies augmenting human intellect [<a href="https://scholar.google.com/citations?user=052bgSAAAAAJ">Google Scholar</a>].</p>
 </div>
 
 ![ ](/img/topics.png)
@@ -16,8 +16,9 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
-|<tt>2023-*&nbsp;&nbsp;&nbsp;</tt>|Project Professor, <span class="no-wrap"><a href="https://www.omu.ac.jp/i/en/">Osaka Metropolitan University</a></span>|
+|<tt>2023-*&nbsp;&nbsp;&nbsp;</tt>|Professor, <span class="no-wrap"><a href="https://www.omu.ac.jp/i/en/">Osaka Metropolitan University</a></span>|
 |<tt>2014-*&nbsp;&nbsp;&nbsp;</tt>|Researcher, <span class="no-wrap"><a href="http://www.kmd.keio.ac.jp/">Keio Media Design Research Institute</a></span>|
+|<tt>2023-2025</tt>|Project Professor, <span class="no-wrap"><a href="https://www.omu.ac.jp/i/en/">Osaka Metropolitan University</a></span>|
 |<tt>2022-2023</tt>|Visiting Associate Professor, <span class="no-wrap"><a href="https://www.upc-osaka.ac.jp/new-univ/en-research/">Osaka Metropolitan University</a></span>|
 |<tt>2021-2023</tt>|Junior Professor (PI), <span class="no-wrap"><a href="https://www.uni-kl.de">University of Kaiserslautern</a></span>|
 |<tt>2016-2022</tt>|Visiting Researcher, <span class="no-wrap"><a href="http://www.osakafu-u.ac.jp/english/">Osaka Prefecture University</a></span>|

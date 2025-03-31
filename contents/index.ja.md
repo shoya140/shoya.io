@@ -1,13 +1,13 @@
 ---
 title: "石丸 翔也 (Shoya Ishimaru)"
 keywords: ["Shoya Ishimaru", "Ishimaru Shoya", "石丸 翔也", "石丸翔也", "Shoya", "Ishimaru", "shoya140", "大阪公立大学", "OMU", "Alphaben", "DFKI", "ドイツ人工知能研究センター", "Kaiserslautern", "Portfolio", "ポートフォリオ"]
-description: "石丸翔也は工学博士、大阪公立大学特任教授、株式会社Affectify代表取締役、IPA未踏スーパークリエータ、未踏ジュニア メンター。AI技術によって人の知性を拡張する研究に取り組んでいる。"
+description: "石丸翔也は工学博士、大阪公立大学教授、株式会社Affectify代表取締役、IPA未踏スーパークリエータ、未踏ジュニア メンター。AI技術によって人の知性を拡張する研究に取り組んでいる。"
 eyecatch: "/img/icon_portrait.jpg"
 ---
 
 <div class="bio">
     <img src="/img/icon_portrait.jpg" class="image-portrait" width="130px" height="130px" alt="石丸 翔也">
-    <p>大阪公立大学特任教授・株式会社Affectify代表取締役。2016年に大阪府立大学にて修士 (工学) を取得し、渡欧。カイザースラウテルン工科大学にて博士 (工学) を取得。同大学Junior Professor (PI)、ドイツ人工知能研究センター (DFKI) Senior Researcher、Alphaben CROなどを務め、2023年より帰国して現職。AI技術によって人の知性を拡張する研究に取り組んでいる。「心温計：心の状態を可視化するシステムの開発」でIPA未踏スーパークリエータに認定された。</p>
+    <p>大阪公立大学教授・株式会社Affectify代表取締役。2016年に大阪府立大学にて修士 (工学) を取得し、渡欧。カイザースラウテルン工科大学にて博士 (工学) を取得。同大学Junior Professor (PI)、ドイツ人工知能研究センター (DFKI) Senior Researcher、Alphaben CROなどを務め、2023年より帰国して現職。AI技術によって人の知性を拡張する研究に取り組んでいる。「心温計：心の状態を可視化するシステムの開発」でIPA未踏スーパークリエータに認定された。</p>
 </div>
 
 ![ ](/img/topics.png)
@@ -16,8 +16,9 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
-|<tt>2023-現在</tt>|<a href="https://www.omu.ac.jp/i/">大阪公立大学 大学院情報学研究科</a> <span class="no-wrap">特任教授</span>|
+|<tt>2025-現在</tt>|<a href="https://www.omu.ac.jp/i-academy/">大阪公立大学 イノベーションアカデミー共創研究院</a> <span class="no-wrap">教授</span>|
 |<tt>2014-現在</tt>|<a href="http://www.kmd.keio.ac.jp/jp/">慶應義塾大学 KMD研究所</a> <span class="no-wrap">研究員</span>|
+|<tt>2023-2025</tt>|<a href="https://www.omu.ac.jp/i/">大阪公立大学 大学院情報学研究科</a> <span class="no-wrap">特任教授</span>|
 |<tt>2022-2023</tt>|<a href="https://www.omu.ac.jp/i/">大阪公立大学 大学院情報学研究科</a> <span class="no-wrap">客員准教授</span>|
 |<tt>2021-2023</tt>|<a href="https://www.uni-kl.de">カイザースラウテルン工科大学</a> <span class="no-wrap">ジュニア教授 (PI)</span>|
 |<tt>2016-2022</tt>|<a href="http://www.osakafu-u.ac.jp/">大阪府立大学</a> <span class="no-wrap">客員研究員</span>|
