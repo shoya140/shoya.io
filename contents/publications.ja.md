@@ -4,7 +4,7 @@ title: "論文"
 
 ## 論文誌
 
-@[references](takita2025comparative iwatsuru2025enhancing watanabe2025trackthink bhatt2025abcde melo2025automatic yamaoka2025img2vocab kennel2025gaze bhatt2024estimating santhosh2024gaze dembinsky2024gaze bhatt2024appearance ramachandra2024enhancing santhosh2024toward santhosh2023multimodal watanabe2023engauge chen2022quantitative vargo2022obtaining watanabe2021discaas brishtel2020mind amft2015making)
+@[references](watanabe2025eyeunderstand takita2025comparative iwatsuru2025enhancing watanabe2025trackthink bhatt2025abcde melo2025automatic yamaoka2025img2vocab kennel2025gaze bhatt2024estimating santhosh2024gaze dembinsky2024gaze bhatt2024appearance ramachandra2024enhancing santhosh2024toward santhosh2023multimodal watanabe2023engauge chen2022quantitative vargo2022obtaining watanabe2021discaas brishtel2020mind amft2015making)
 
 ## 書籍 (分担著)
 
