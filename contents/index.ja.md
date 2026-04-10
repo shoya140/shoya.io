@@ -88,6 +88,8 @@ eyecatch: "/img/icon_portrait.jpg"
 
 |||
 |:---:|:---|
+|<tt>2026</tt>|戴 南杰, "Skill-Level Estimation in Robot-Assisted Surgery Using a Neck-Worn Camera"|
+|<tt>2026</tt>|小角 宗暉, "Lightweight On-Device Fine-Tuning for Appearance-Based Gaze Estimation"|
 |<tt>2024</tt>|Nikita Khutorni, "Predicting Procrastination: A Real-Time Approach Using Biofeedback and Emotional Analysis"|
 |<tt>2018</tt>|Ann-Sophie Steinert, "Investigation of the Relationship between Reading Order and Reading Behaviour on a Textbook using Eye Tracking"|
 

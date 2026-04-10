@@ -4,11 +4,11 @@ title: "論文"
 
 ## 論文誌
 
-@[references](mitsuyama2025deep watanabe2025eyeunderstand takita2025comparative iwatsuru2025enhancing watanabe2025trackthink bhatt2025abcde melo2025automatic yamaoka2025img2vocab kennel2025gaze bhatt2024estimating santhosh2024gaze dembinsky2024gaze bhatt2024appearance ramachandra2024enhancing santhosh2024toward santhosh2023multimodal watanabe2023engauge chen2022quantitative vargo2022obtaining watanabe2021discaas brishtel2020mind amft2015making)
+@[references](dai2026estimating melo2026senscogar ueshima2026sipsense bhatt2026from mitsuyama2025deep watanabe2025eyeunderstand takita2025comparative iwatsuru2025enhancing watanabe2025trackthink bhatt2025abcde melo2025automatic yamaoka2025img2vocab kennel2025gaze bhatt2024estimating santhosh2024gaze dembinsky2024gaze bhatt2024appearance ramachandra2024enhancing santhosh2024toward santhosh2023multimodal watanabe2023engauge chen2022quantitative vargo2022obtaining watanabe2021discaas brishtel2020mind amft2015making)
 
 ## 書籍 (分担著)
 
-@[references](ishimaru2018augmented)
+@[references](ishimaru2026beyond watanabe2026knowledge kise2026sensing ishimaru2018augmented)
 
 ## 国際会議の予稿
 
